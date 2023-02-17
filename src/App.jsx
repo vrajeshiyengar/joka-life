@@ -19,7 +19,7 @@ const App = () => {
   return (
     <div className="App" style={{ backgroundImage: `url(${backgroundImage})` }}>
       {redirectUrl ? (
-        <LoginPage />
+        <LoginPage redirectUrl={redirectUrl} />
       ) : (
         <LandingPage setRedirectUrl={setRedirectUrl} />
       )}

@@ -17,8 +17,9 @@ const LandingPage = ({ setRedirectUrl }) => {
   return (
     <div className="container">
       <div className="card">
-        <h2>Welcome to Joka Life</h2>
-        <h3>IIM Calcutta's digital portal</h3>
+        <h2 className="landingpage_title">Welcome to Joka Life</h2>
+        <br />
+        <p className="landingpage_description">IIM Calcutta's digital portal</p>
         <div className="appcards_container">
           {applications.map((item) => {
             return (

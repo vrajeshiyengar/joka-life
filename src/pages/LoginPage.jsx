@@ -1,18 +1,40 @@
 import React, { useState } from "react";
+const postData = async (url, body = {}, headers = {}, cb = () => {}) => {
+  fetch(`${url}`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      ...headers,
+    },
+    body: JSON.stringify(body),
+  })
+    .then((response) => response.json())
+    .then((response) => {
+      cb(response);
+    })
+    .catch((err) => {
+      console.error(err);
+    });
+};
 
-const LoginPage = () => {
-  const searchParams = new URLSearchParams(window.location.search);
-  const [redirectUrl, setRedirectUrl] = useState(
-    searchParams.get("redirectUrl")
-  );
-
+const LoginPage = ({ redirectUrl }) => {
   const handleLogin = (event) => {
     event.preventDefault();
-    console.log("Form submitted!!", event);
+    debugger;
+    postData(
+      "https://ec2-43-204-240-96.ap-south-1.compute.amazonaws.com/api/auth/login", // this wasn't working a while back, need to check
+      { username: event.target[0].value, password: event.target[1].value },
+      {},
+      (res) => {
+        debugger;
+        console.log(res); // store joka_auth_token in localStorage here
+        window.location.replace(redirectUrl);
+      }
+    );
   };
   const handleForgotPassword = (event) => {
     event.preventDefault();
-    console.log("Forgot Password!!", event);
+    console.log("Forgot Password!!", event); // redirect to forgot password app built by nabaneet
   };
 
   return (
