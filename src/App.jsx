@@ -7,21 +7,29 @@ import backgroundImage from "./assets/background.jpg";
 const App = () => {
   const searchParams = new URLSearchParams(window.location.search);
 
-  const [redirectUrl, setRedirectUrl] = useState(
-    searchParams.get("redirectUrl")
-  );
+  const [redirectUrlState, setRedirectUrlState] = useState(null);
+  useEffect(() => {
+    const urlParams = new URLSearchParams(window.location.search);
+    const redirectUrl = urlParams.get("redirectUrl");
 
-  // const [jokaAuthToken, setJokaAuthToken] = useState(
-  //   localStorage.getItem("joka_auth_token")
-  // );
-  // const [loggedIn, setLoggedIn] = useState(false);
+    if (redirectUrl) {
+      console.log(`The value of redirectUrl is ${redirectUrl}.`);
+      urlParams.delete("redirectUrl");
+      const newUrl = `${window.location.pathname}?${urlParams.toString()}`;
+      window.history.replaceState(null, "", newUrl);
+      setRedirectUrlState(redirectUrl);
+    }
+  }, []);
 
   return (
     <div className="App" style={{ backgroundImage: `url(${backgroundImage})` }}>
-      {redirectUrl ? (
-        <LoginPage redirectUrl={redirectUrl} />
+      {redirectUrlState ? (
+        <LoginPage
+          redirectUrl={redirectUrlState}
+          setRedirectUrl={setRedirectUrlState}
+        />
       ) : (
-        <LandingPage setRedirectUrl={setRedirectUrl} />
+        <LandingPage setRedirectUrl={setRedirectUrlState} />
       )}
     </div>
   );

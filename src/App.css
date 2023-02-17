@@ -10,13 +10,34 @@
   align-items: center;
   height: 100vh;
 }
-
+.login_title {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding-right: 23px;
+}
+.login_card {
+  padding: 24px;
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  width: 320px;
+}
 .card {
   padding: 24px;
   background-color: #fff;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   border-radius: 4px;
-  width: 400px;
+  width: 320px;
+}
+@media (min-width: 770px) {
+  .card {
+    padding: 24px;
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    width: 90%;
+  }
 }
 
 h2 {
@@ -63,6 +84,10 @@ button[type='submit']:hover {
   text-align: center;
 }
 
+.error {
+  font-size: small;
+  color: red;
+}
 a {
   color: #0077c2;
   text-decoration: none;
@@ -70,10 +95,6 @@ a {
 
 a:hover {
   text-decoration: underline;
-}
-
-.appcards_input {
-  background-color: #fff;
 }
 
 .appcards_container {
@@ -90,7 +111,6 @@ a:hover {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  width: 90%;
   padding: 1rem;
   border: 1px solid #eee;
   box-shadow: 0px 0px 2px 0px #aaa;
@@ -107,13 +127,58 @@ a:hover {
   box-shadow: 0px 0px 8px 1px #ccc;
 }
 .appcard_logo {
-  width: 15%;
+  width: 20%;
 }
-
 .appcard_content {
   flex: 1;
   margin-left: 1rem;
+  margin-top: 0rem;
 }
+@media (min-width: 770px) {
+  .appcards_container {
+    height: 70vh;
+    overflow-y: scroll;
+    margin-top: 20px;
+    padding:10px;
+    background: #eee;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+  }
+  .appcard_card {
+    width: 300px;
+    height: 150px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    border: 1px solid #eee;
+    box-shadow: 0px 0px 2px 0px #aaa;
+    border-radius: 5px;
+    background: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+    margin:10px;
+    align-self:center;
+    transition: box-shadow 0.1s ease-out;
+  }
+  .appcard_card:hover {
+    box-shadow: 0px 0px 8px 1px #ccc;
+  }
+  .appcard_logo {
+    width: 30%;
+  }
+  .appcard_content {
+    flex: 1;
+    margin-top: 1rem;
+    margin-left: 0rem;
+  }
+}
+
+
+
 
 .title {
   font-size: 1rem;
@@ -123,6 +188,7 @@ a:hover {
 .description {
   font-size: 0.8rem;
   margin: 0;
+  margin-top: 5px;
 
 }
 
@@ -136,4 +202,5 @@ a:hover {
   font-size: 1rem;
   margin: 0;
   text-align: center;
+  margin-top: 5px;
 }

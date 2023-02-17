@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { useState, useEffect } from "react";
 const postData = async (url, body = {}, headers = {}, cb = () => {}) => {
   fetch(`${url}`, {
     method: "POST",
@@ -17,42 +17,99 @@ const postData = async (url, body = {}, headers = {}, cb = () => {}) => {
     });
 };
 
-const LoginPage = ({ redirectUrl }) => {
+const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
+  const [errorText, setErrorText] = useState("");
   const handleLogin = (event) => {
     event.preventDefault();
-    debugger;
-    postData(
-      "https://ec2-43-204-240-96.ap-south-1.compute.amazonaws.com/api/auth/login", // this wasn't working a while back, need to check
-      { username: event.target[0].value, password: event.target[1].value },
-      {},
-      (res) => {
-        debugger;
-        console.log(res); // store joka_auth_token in localStorage here
-        window.location.replace(redirectUrl);
-      }
-    );
-  };
-  const verifyAuthToken = (token) => {
-    if (token) {
-      postData(
-        "https://ec2-43-204-240-96.ap-south-1.compute.amazonaws.com/api/auth/verifyAccessToken", // this wasn't working a while back, need to check
-        { access_token: token },
-        { joka_auth_token: token },
-        (res) => {
-          debugger;
-          console.log(res);
-          // if (!res.body.error) {  // redirect to redirectUrl if token is valid
-          //   window.location.replace(redirectUrl);
-          // } else {
-          //   do nothing
-          // }
+    if (event.target[0].value && !event.target[1].value) {
+      setErrorText("Please enter a password");
+    } else if (!event.target[0].value && event.target[1].value) {
+      setErrorText("Please enter a username");
+    } else if (!event.target[0].value && !event.target[1].value) {
+      setErrorText("Please enter a username and password");
+    } else {
+      setErrorText("");
+      const formData = new URLSearchParams();
+      formData.append("username", event.target[0].value);
+      formData.append("password", event.target[1].value);
+      fetch(
+        `http://ec2-43-204-240-96.ap-south-1.compute.amazonaws.com/api/auth/login`,
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/x-www-form-urlencoded",
+          },
+          body: formData.toString(),
         }
-      );
+      )
+        .then((response) => {
+          if (response.ok) {
+            return JSON.parse(response.headers.get("joka_auth_token"));
+          } else {
+            const err = "Invalid username or password";
+            setErrorText(err);
+            return { error: err };
+          }
+        })
+        .then((joka_auth_token) => {
+          if (
+            !joka_auth_token.error &&
+            joka_auth_token &&
+            joka_auth_token.access_token
+          ) {
+            localStorage.setItem(
+              "joka_auth_token",
+              joka_auth_token.access_token
+            );
+            window.location.replace(redirectUrl);
+          }
+        })
+        .catch((err) => {
+          console.error(err);
+          setErrorText(
+            "Unexpected error. Kindly refresh the page or contact the ISG team if the issue persists."
+          );
+        });
     }
   };
+
+  const verifyAuthToken = (token) => {
+    if (token && token != "null") {
+      const formData = new URLSearchParams();
+      formData.append("access_token", token);
+      fetch(
+        `http://ec2-43-204-240-96.ap-south-1.compute.amazonaws.com/api/auth/verifyAccessToken`,
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/x-www-form-urlencoded",
+            joka_auth_token: token,
+          },
+          body: formData.toString(),
+        }
+      )
+        .then((response) => response.json())
+        .then((body) => {
+          if (body.error) {
+            console.log("Cleared local joka_auth_token!!!");
+          } else {
+            window.location.replace(redirectUrl);
+          }
+        })
+        .catch((err) => {
+          console.error(err);
+        });
+    }
+  };
+
   const handleForgotPassword = (event) => {
     event.preventDefault();
     console.log("Forgot Password!!", event); // redirect to forgot password app built by nabaneet
+  };
+
+  const handleHomeClick = (event) => {
+    event.preventDefault();
+    setRedirectUrl(null);
   };
 
   useEffect(() => {
@@ -61,17 +118,25 @@ const LoginPage = ({ redirectUrl }) => {
 
   return (
     <div className="container">
-      <div className="card">
-        <h2>Login</h2>
+      <div className="login_card">
+        <div className="login_title">
+          <h2>Login</h2>
+          <a onClick={handleHomeClick}>Home</a>
+        </div>
         <form onSubmit={handleLogin}>
           <div className="form-group">
             <label htmlFor="username">Username</label>
-            <input type="text" id="username" />
+            <input type="text" id="username" autoComplete="username" />
           </div>
           <div className="form-group">
             <label htmlFor="password">Password</label>
-            <input type="password" id="password" />
+            <input
+              type="password"
+              id="password"
+              autoComplete="current-password"
+            />
           </div>
+          <div className="error">{errorText}</div>
           <button type="submit">Submit</button>
         </form>
         <div className="forgot-password">
