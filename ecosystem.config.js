@@ -2,8 +2,8 @@ module.exports = {
   apps: [
     {
       name: "joka-life",
-      script: "serve",
-      args: "-s build",
+      script: "npm",
+      args: "start",
       instances: 1,
       autorestart: true,
       watch: false,

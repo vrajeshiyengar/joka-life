@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useEffect } from "react";
 const postData = async (url, body = {}, headers = {}, cb = () => {}) => {
   fetch(`${url}`, {
     method: "POST",
@@ -32,10 +32,32 @@ const LoginPage = ({ redirectUrl }) => {
       }
     );
   };
+  const verifyAuthToken = (token) => {
+    if (token) {
+      postData(
+        "https://ec2-43-204-240-96.ap-south-1.compute.amazonaws.com/api/auth/verifyAccessToken", // this wasn't working a while back, need to check
+        { access_token: token },
+        { joka_auth_token: token },
+        (res) => {
+          debugger;
+          console.log(res);
+          // if (!res.body.error) {  // redirect to redirectUrl if token is valid
+          //   window.location.replace(redirectUrl);
+          // } else {
+          //   do nothing
+          // }
+        }
+      );
+    }
+  };
   const handleForgotPassword = (event) => {
     event.preventDefault();
     console.log("Forgot Password!!", event); // redirect to forgot password app built by nabaneet
   };
+
+  useEffect(() => {
+    verifyAuthToken(localStorage.getItem("joka_auth_token"));
+  }, []);
 
   return (
     <div className="container">
