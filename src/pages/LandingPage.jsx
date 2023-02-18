@@ -8,7 +8,7 @@ const LandingPage = ({ setRedirectUrl }) => {
     if (requiresJokaAuth) {
       setRedirectUrl(url);
     } else {
-      window.location.replace(url);
+      window.location.assign(url);
     }
   };
   return (
