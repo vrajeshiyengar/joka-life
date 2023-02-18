@@ -23,5 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 # config
-.ecosystem.config.js
+./ecosystem.config.js
 ./src/config.jsx
