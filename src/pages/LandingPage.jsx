@@ -1,5 +1,5 @@
 import React from "react";
-import applications from "../applications";
+import { applications } from "../applications";
 import AppCard from "../components/AppCard";
 
 const LandingPage = ({ setRedirectUrl }) => {
@@ -11,7 +11,6 @@ const LandingPage = ({ setRedirectUrl }) => {
       window.location.replace(url);
     }
   };
-  console.log(applications);
   return (
     <div className="container">
       <div className="card">

@@ -1,21 +1,5 @@
 import { useState, useEffect } from "react";
-const postData = async (url, body = {}, headers = {}, cb = () => {}) => {
-  fetch(`${url}`, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      ...headers,
-    },
-    body: JSON.stringify(body),
-  })
-    .then((response) => response.json())
-    .then((response) => {
-      cb(response);
-    })
-    .catch((err) => {
-      console.error(err);
-    });
-};
+import { apis } from "../applications";
 
 const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
   const [errorText, setErrorText] = useState("");
@@ -32,16 +16,13 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
       const formData = new URLSearchParams();
       formData.append("username", event.target[0].value);
       formData.append("password", event.target[1].value);
-      fetch(
-        `http://ec2-43-204-240-96.ap-south-1.compute.amazonaws.com/api/auth/login`,
-        {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/x-www-form-urlencoded",
-          },
-          body: formData.toString(),
-        }
-      )
+      fetch(apis.login, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/x-www-form-urlencoded",
+        },
+        body: formData.toString(),
+      })
         .then((response) => {
           if (response.ok) {
             return JSON.parse(response.headers.get("joka_auth_token"));
@@ -77,17 +58,14 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
     if (token && token != "null") {
       const formData = new URLSearchParams();
       formData.append("access_token", token);
-      fetch(
-        `http://ec2-43-204-240-96.ap-south-1.compute.amazonaws.com/api/auth/verifyAccessToken`,
-        {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/x-www-form-urlencoded",
-            joka_auth_token: token,
-          },
-          body: formData.toString(),
-        }
-      )
+      fetch(apis.verifyAccessToken, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/x-www-form-urlencoded",
+          joka_auth_token: token,
+        },
+        body: formData.toString(),
+      })
         .then((response) => response.json())
         .then((body) => {
           if (body.error) {
@@ -107,9 +85,7 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
 
   const handleForgotPassword = (event) => {
     event.preventDefault();
-    window.location.replace(
-      "http://ec2-43-204-240-96.ap-south-1.compute.amazonaws.com/passwordResetApp#/"
-    );
+    window.location.replace(apis.forgotPassword);
   };
 
   const handleHomeClick = (event) => {
