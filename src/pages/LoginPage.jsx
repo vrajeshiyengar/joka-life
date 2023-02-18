@@ -92,8 +92,11 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
         .then((body) => {
           if (body.error) {
             console.log("Cleared local joka_auth_token!!!");
+            localStorage.removeItem("joka_auth_token");
           } else {
-            window.location.replace(redirectUrl);
+            localStorage.removeItem("joka_auth_token");
+
+            // window.location.replace(redirectUrl);
           }
         })
         .catch((err) => {
@@ -104,7 +107,9 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
 
   const handleForgotPassword = (event) => {
     event.preventDefault();
-    console.log("Forgot Password!!", event); // redirect to forgot password app built by nabaneet
+    window.location.replace(
+      "http://ec2-43-204-240-96.ap-south-1.compute.amazonaws.com/passwordResetApp#/"
+    );
   };
 
   const handleHomeClick = (event) => {
