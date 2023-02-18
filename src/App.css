@@ -91,6 +91,7 @@ button[type='submit']:hover {
 a {
   color: #0077c2;
   text-decoration: none;
+  cursor: pointer;
 }
 
 a:hover {
