@@ -1,5 +1,5 @@
 import React from "react";
-import { applications } from "../applications";
+import config from "../config";
 import AppCard from "../components/AppCard";
 
 const LandingPage = ({ setRedirectUrl }) => {
@@ -21,7 +21,7 @@ const LandingPage = ({ setRedirectUrl }) => {
           Select an application below to continue
         </p>
         <div className="appcards_container">
-          {applications.map((item) => {
+          {config.applications.map((item) => {
             return (
               <AppCard
                 key={`key_${item.title}`}

@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { apis } from "../applications";
+import config from "../config";
 
 const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
   const [errorText, setErrorText] = useState("");
@@ -16,7 +16,7 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
       const formData = new URLSearchParams();
       formData.append("username", event.target[0].value);
       formData.append("password", event.target[1].value);
-      fetch(apis.login, {
+      fetch(config.apis.login, {
         method: "POST",
         headers: {
           "Content-Type": "application/x-www-form-urlencoded",
@@ -58,7 +58,7 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
     if (token && token != "null") {
       const formData = new URLSearchParams();
       formData.append("access_token", token);
-      fetch(apis.verifyAccessToken, {
+      fetch(config.apis.verifyAccessToken, {
         method: "POST",
         headers: {
           "Content-Type": "application/x-www-form-urlencoded",
@@ -85,7 +85,7 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
 
   const handleForgotPassword = (event) => {
     event.preventDefault();
-    window.location.replace(apis.forgotPassword);
+    window.location.replace(config.apis.forgotPassword);
   };
 
   const handleHomeClick = (event) => {
