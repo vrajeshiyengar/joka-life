@@ -205,3 +205,14 @@ a:hover {
   text-align: center;
   margin-top: 5px;
 }
+
+.landing-logo-container {
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-end;
+  padding: 20px
+}
+.landing-logo {
+  width: 15%
+}

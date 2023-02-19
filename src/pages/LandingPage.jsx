@@ -1,7 +1,7 @@
 import React from "react";
-import config from "../config";
 import AppCard from "../components/AppCard";
-
+import config from "../config";
+import iimcLogo from "../assets/iimc_logo.png";
 const LandingPage = ({ setRedirectUrl }) => {
   const handleClick = (url, requiresJokaAuth) => {
     console.log("clicked!!", url, requiresJokaAuth);
@@ -14,6 +14,9 @@ const LandingPage = ({ setRedirectUrl }) => {
   return (
     <div className="container">
       <div className="card">
+        <div className="landing-logo-container">
+          <img src={iimcLogo} alt="IIM Calcutta" className="landing-logo" />
+        </div>
         <h1 className="landingpage_title">Welcome to Joka Life</h1>
         <p className="landingpage_description">IIM Calcutta's digital portal</p>
         <br />

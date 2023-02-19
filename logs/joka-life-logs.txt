@@ -1273,4 +1273,3912 @@
 > joka-life@0.1.0 start
 > react-scripts start
 
-2023-02-19T12:24:11: 2023-02-19T12:24:11: 
+2023-02-19T12:24:11: 2023-02-19T12:24:11: 2023-02-19T12:24:26: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:24:26: 2023-02-19T12:24:26: 2023-02-19T12:24:42: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:24:42: 2023-02-19T12:24:42: 2023-02-19T12:24:58: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:24:58: 2023-02-19T12:24:58: 2023-02-19T12:25:13: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:25:14: 2023-02-19T12:25:14: 2023-02-19T12:25:29: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:25:30: 2023-02-19T12:25:30: 2023-02-19T12:25:45: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:25:46: 2023-02-19T12:25:46: 2023-02-19T12:26:01: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:26:02: 2023-02-19T12:26:02: 2023-02-19T12:26:17: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:26:18: 2023-02-19T12:26:18: 2023-02-19T12:26:33: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:26:34: 2023-02-19T12:26:34: 2023-02-19T12:26:49: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:26:50: 2023-02-19T12:26:50: 2023-02-19T12:27:05: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:27:05: 2023-02-19T12:27:05: 2023-02-19T12:27:21: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:27:21: 2023-02-19T12:27:21: 2023-02-19T12:27:37: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:27:37: 2023-02-19T12:27:37: 2023-02-19T12:27:52: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:27:53: 2023-02-19T12:27:53: 2023-02-19T12:28:08: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:28:09: 2023-02-19T12:28:09: 2023-02-19T12:28:24: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:28:25: 2023-02-19T12:28:25: 2023-02-19T12:28:40: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:28:41: 2023-02-19T12:28:41: 2023-02-19T12:28:56: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:28:57: 2023-02-19T12:28:57: 2023-02-19T12:29:12: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:29:12: 2023-02-19T12:29:12: 2023-02-19T12:29:28: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:29:28: 2023-02-19T12:29:28: 2023-02-19T12:29:44: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:29:44: 2023-02-19T12:29:44: 2023-02-19T12:29:59: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:30:00: 2023-02-19T12:30:00: 2023-02-19T12:30:15: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:30:16: 2023-02-19T12:30:16: 2023-02-19T12:30:31: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:30:32: 2023-02-19T12:30:32: 2023-02-19T12:30:47: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:30:48: 2023-02-19T12:30:48: 2023-02-19T12:31:03: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:31:04: 2023-02-19T12:31:04: 2023-02-19T12:31:19: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:31:20: 2023-02-19T12:31:20: 2023-02-19T12:31:35: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:31:35: 2023-02-19T12:31:35: 2023-02-19T12:31:51: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:31:51: 2023-02-19T12:31:51: 2023-02-19T12:32:07: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:32:07: 2023-02-19T12:32:07: 2023-02-19T12:32:22: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:32:23: 2023-02-19T12:32:23: 2023-02-19T12:32:38: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:32:39: 2023-02-19T12:32:39: 2023-02-19T12:32:54: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:32:55: 2023-02-19T12:32:55: 2023-02-19T12:33:10: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:33:11: 2023-02-19T12:33:11: 2023-02-19T12:33:26: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:33:27: 2023-02-19T12:33:27: 2023-02-19T12:33:42: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:33:43: 2023-02-19T12:33:43: 2023-02-19T12:33:58: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:33:58: 2023-02-19T12:33:58: 2023-02-19T12:34:14: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:34:14: 2023-02-19T12:34:14: 2023-02-19T12:34:30: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:34:30: 2023-02-19T12:34:30: 2023-02-19T12:34:45: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:34:46: 2023-02-19T12:34:46: 2023-02-19T12:35:01: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:35:02: 2023-02-19T12:35:02: 2023-02-19T12:35:17: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:35:18: 2023-02-19T12:35:18: 2023-02-19T12:35:33: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:35:34: 2023-02-19T12:35:34: 2023-02-19T12:35:49: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:35:50: 2023-02-19T12:35:50: 2023-02-19T12:36:05: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:36:05: 2023-02-19T12:36:05: 2023-02-19T12:36:21: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:36:21: 2023-02-19T12:36:21: 2023-02-19T12:36:37: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:36:37: 2023-02-19T12:36:37: 2023-02-19T12:36:52: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:36:53: 2023-02-19T12:36:53: 2023-02-19T12:37:08: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:37:09: 2023-02-19T12:37:09: 2023-02-19T12:37:24: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:37:25: 2023-02-19T12:37:25: 2023-02-19T12:37:40: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:37:41: 2023-02-19T12:37:41: 2023-02-19T12:37:56: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:37:57: 2023-02-19T12:37:57: 2023-02-19T12:38:12: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:38:12: 2023-02-19T12:38:12: 2023-02-19T12:38:28: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:38:28: 2023-02-19T12:38:28: 2023-02-19T12:38:44: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:38:44: 2023-02-19T12:38:44: 2023-02-19T12:38:59: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:39:00: 2023-02-19T12:39:00: 2023-02-19T12:39:15: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:39:16: 2023-02-19T12:39:16: 2023-02-19T12:39:31: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:39:32: 2023-02-19T12:39:32: 2023-02-19T12:39:47: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:39:48: 2023-02-19T12:39:48: 2023-02-19T12:40:03: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:40:04: 2023-02-19T12:40:04: 2023-02-19T12:40:19: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:40:20: 2023-02-19T12:40:20: 2023-02-19T12:40:35: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:40:36: 2023-02-19T12:40:36: 2023-02-19T12:40:51: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:40:52: 2023-02-19T12:40:52: 2023-02-19T12:41:07: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:41:08: 2023-02-19T12:41:08: 2023-02-19T12:41:23: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:41:23: 2023-02-19T12:41:23: 2023-02-19T12:41:39: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:41:39: 2023-02-19T12:41:39: 2023-02-19T12:41:55: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:41:55: 2023-02-19T12:41:55: 2023-02-19T12:42:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:42:11: 2023-02-19T12:42:11: 2023-02-19T12:42:27: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:42:28: 2023-02-19T12:42:28: 2023-02-19T12:42:43: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:42:43: 2023-02-19T12:42:43: 2023-02-19T12:42:59: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:42:59: 2023-02-19T12:42:59: 2023-02-19T12:43:15: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:43:15: 2023-02-19T12:43:15: 2023-02-19T12:43:30: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:43:31: 2023-02-19T12:43:31: 2023-02-19T12:43:46: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:43:47: 2023-02-19T12:43:47: 2023-02-19T12:44:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:44:03: 2023-02-19T12:44:03: 2023-02-19T12:44:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:44:19: 2023-02-19T12:44:19: 2023-02-19T12:44:34: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:44:35: 2023-02-19T12:44:35: 2023-02-19T12:44:50: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:44:51: 2023-02-19T12:44:51: 2023-02-19T12:45:06: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:45:07: 2023-02-19T12:45:07: 2023-02-19T12:45:22: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:45:23: 2023-02-19T12:45:23: 2023-02-19T12:45:38: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:45:39: 2023-02-19T12:45:39: 2023-02-19T12:45:54: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:45:55: 2023-02-19T12:45:55: 2023-02-19T12:46:10: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:46:11: 2023-02-19T12:46:11: 2023-02-19T12:46:26: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:46:27: 2023-02-19T12:46:27: 2023-02-19T12:46:42: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:46:43: 2023-02-19T12:46:43: 2023-02-19T12:46:58: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:46:58: 2023-02-19T12:46:58: 2023-02-19T12:47:14: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:47:14: 2023-02-19T12:47:14: 2023-02-19T12:47:30: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:47:30: 2023-02-19T12:47:30: 2023-02-19T12:47:46: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:47:46: 2023-02-19T12:47:46: 2023-02-19T12:48:01: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:48:02: 2023-02-19T12:48:02: 2023-02-19T12:48:17: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:48:18: 2023-02-19T12:48:18: 2023-02-19T12:48:33: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:48:34: 2023-02-19T12:48:34: 2023-02-19T12:48:49: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:48:50: 2023-02-19T12:48:50: 2023-02-19T12:49:05: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:49:06: 2023-02-19T12:49:06: 2023-02-19T12:49:21: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:49:21: 2023-02-19T12:49:21: 2023-02-19T12:49:37: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:49:37: 2023-02-19T12:49:37: 2023-02-19T12:49:53: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:49:53: 2023-02-19T12:49:53: 2023-02-19T12:50:08: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:50:09: 2023-02-19T12:50:09: 2023-02-19T12:50:24: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:50:25: 2023-02-19T12:50:25: 2023-02-19T12:50:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:50:41: 2023-02-19T12:50:41: 2023-02-19T12:50:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:50:57: 2023-02-19T12:50:57: 2023-02-19T12:51:12: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:51:13: 2023-02-19T12:51:13: 2023-02-19T12:51:28: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:51:29: 2023-02-19T12:51:29: 2023-02-19T12:51:44: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:51:45: 2023-02-19T12:51:45: 2023-02-19T12:52:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:52:01: 2023-02-19T12:52:01: 2023-02-19T12:52:16: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:52:17: 2023-02-19T12:52:17: 2023-02-19T12:52:32: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:52:32: 2023-02-19T12:52:32: 2023-02-19T12:52:48: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:52:48: 2023-02-19T12:52:48: 2023-02-19T12:53:04: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:53:04: 2023-02-19T12:53:04: 2023-02-19T12:53:19: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:53:20: 2023-02-19T12:53:20: 2023-02-19T12:53:35: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:53:36: 2023-02-19T12:53:36: 2023-02-19T12:53:51: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:53:52: 2023-02-19T12:53:52: 2023-02-19T12:54:07: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:54:08: 2023-02-19T12:54:08: 2023-02-19T12:54:23: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:54:24: 2023-02-19T12:54:24: 2023-02-19T12:54:39: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:54:39: 2023-02-19T12:54:39: 2023-02-19T12:54:55: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:54:55: 2023-02-19T12:54:55: 2023-02-19T12:55:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:55:11: 2023-02-19T12:55:11: 2023-02-19T12:55:26: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:55:27: 2023-02-19T12:55:27: 2023-02-19T12:55:42: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:55:43: 2023-02-19T12:55:43: 2023-02-19T12:55:58: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:55:59: 2023-02-19T12:55:59: 2023-02-19T12:56:14: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:56:15: 2023-02-19T12:56:15: 2023-02-19T12:56:30: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:56:31: 2023-02-19T12:56:31: 2023-02-19T12:56:46: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:56:46: 2023-02-19T12:56:46: 2023-02-19T12:57:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:57:02: 2023-02-19T12:57:02: 2023-02-19T12:57:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:57:18: 2023-02-19T12:57:18: 2023-02-19T12:57:33: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:57:34: 2023-02-19T12:57:34: 2023-02-19T12:57:49: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:57:50: 2023-02-19T12:57:50: 2023-02-19T12:58:05: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:58:06: 2023-02-19T12:58:06: 2023-02-19T12:58:21: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:58:22: 2023-02-19T12:58:22: 2023-02-19T12:58:37: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:58:38: 2023-02-19T12:58:38: 2023-02-19T12:58:53: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:58:54: 2023-02-19T12:58:54: 2023-02-19T12:59:09: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:59:10: 2023-02-19T12:59:10: 2023-02-19T12:59:25: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:59:26: 2023-02-19T12:59:26: 2023-02-19T12:59:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:59:42: 2023-02-19T12:59:42: 2023-02-19T12:59:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:59:58: 2023-02-19T12:59:58: 2023-02-19T13:00:13: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:00:14: 2023-02-19T13:00:14: 2023-02-19T13:00:29: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:00:29: 2023-02-19T13:00:29: 2023-02-19T13:00:45: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:00:45: 2023-02-19T13:00:45: 2023-02-19T13:01:01: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:01:01: 2023-02-19T13:01:01: 2023-02-19T13:01:16: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:01:17: 2023-02-19T13:01:17: 2023-02-19T13:01:32: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:01:33: 2023-02-19T13:01:33: 2023-02-19T13:01:48: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:01:49: 2023-02-19T13:01:49: 2023-02-19T13:02:04: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:02:05: 2023-02-19T13:02:05: 2023-02-19T13:02:20: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:02:21: 2023-02-19T13:02:21: 2023-02-19T13:02:36: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:02:36: 2023-02-19T13:02:36: 2023-02-19T13:02:52: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:02:52: 2023-02-19T13:02:52: 2023-02-19T13:03:08: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:03:08: 2023-02-19T13:03:08: 2023-02-19T13:03:23: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:03:24: 2023-02-19T13:03:24: 2023-02-19T13:03:39: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:03:40: 2023-02-19T13:03:40: 2023-02-19T13:03:55: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:03:56: 2023-02-19T13:03:56: 2023-02-19T13:04:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:04:12: 2023-02-19T13:04:12: 2023-02-19T13:04:27: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:04:28: 2023-02-19T13:04:28: 2023-02-19T13:04:43: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:04:43: 2023-02-19T13:04:43: 2023-02-19T13:04:59: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:04:59: 2023-02-19T13:04:59: 2023-02-19T13:05:15: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:05:15: 2023-02-19T13:05:15: 2023-02-19T13:05:30: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:05:31: 2023-02-19T13:05:31: 2023-02-19T13:05:46: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:05:47: 2023-02-19T13:05:47: 2023-02-19T13:06:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:06:03: 2023-02-19T13:06:03: 2023-02-19T13:06:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:06:19: 2023-02-19T13:06:19: 2023-02-19T13:06:34: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:06:35: 2023-02-19T13:06:35: 2023-02-19T13:06:50: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:06:51: 2023-02-19T13:06:51: 2023-02-19T13:07:06: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:07:07: 2023-02-19T13:07:07: 2023-02-19T13:07:22: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:07:23: 2023-02-19T13:07:23: 2023-02-19T13:07:38: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:07:39: 2023-02-19T13:07:39: 2023-02-19T13:07:54: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:07:55: 2023-02-19T13:07:55: 2023-02-19T13:08:10: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:08:11: 2023-02-19T13:08:11: 2023-02-19T13:08:26: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:08:27: 2023-02-19T13:08:27: 2023-02-19T13:08:42: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:08:43: 2023-02-19T13:08:43: 2023-02-19T13:08:58: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:08:58: 2023-02-19T13:08:58: 2023-02-19T13:09:14: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:09:14: 2023-02-19T13:09:14: 2023-02-19T13:09:30: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:09:30: 2023-02-19T13:09:30: 2023-02-19T13:09:45: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:09:46: 2023-02-19T13:09:46: 2023-02-19T13:10:01: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:10:02: 2023-02-19T13:10:02: 2023-02-19T13:10:17: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:10:18: 2023-02-19T13:10:18: 2023-02-19T13:10:33: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:10:34: 2023-02-19T13:10:34: 2023-02-19T13:10:49: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:10:50: 2023-02-19T13:10:50: 2023-02-19T13:11:05: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:11:05: 2023-02-19T13:11:05: 2023-02-19T13:11:21: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:11:21: 2023-02-19T13:11:21: 2023-02-19T13:11:37: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:11:37: 2023-02-19T13:11:37: 2023-02-19T13:11:52: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:11:53: 2023-02-19T13:11:53: 2023-02-19T13:12:08: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:12:09: 2023-02-19T13:12:09: 2023-02-19T13:12:24: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:12:25: 2023-02-19T13:12:25: 2023-02-19T13:12:40: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:12:41: 2023-02-19T13:12:41: 2023-02-19T13:12:56: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:12:57: 2023-02-19T13:12:57: 2023-02-19T13:13:12: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:13:13: 2023-02-19T13:13:13: 2023-02-19T13:13:28: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:13:28: 2023-02-19T13:13:28: 2023-02-19T13:13:44: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:13:44: 2023-02-19T13:13:44: 2023-02-19T13:14:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:14:00: 2023-02-19T13:14:00: 2023-02-19T13:14:15: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:14:16: 2023-02-19T13:14:16: 2023-02-19T13:14:31: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:14:32: 2023-02-19T13:14:32: 2023-02-19T13:14:47: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:14:48: 2023-02-19T13:14:48: 2023-02-19T13:15:03: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:15:04: 2023-02-19T13:15:04: 2023-02-19T13:15:19: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:15:20: 2023-02-19T13:15:20: 2023-02-19T13:15:35: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:15:35: 2023-02-19T13:15:35: 2023-02-19T13:15:51: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:15:51: 2023-02-19T13:15:51: 2023-02-19T13:16:07: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:16:08: 2023-02-19T13:16:08: 2023-02-19T13:16:23: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:16:24: 2023-02-19T13:16:24: 2023-02-19T13:16:39: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:16:40: 2023-02-19T13:16:40: 2023-02-19T13:16:55: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:16:56: 2023-02-19T13:16:56: 2023-02-19T13:17:12: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:17:12: 2023-02-19T13:17:12: 2023-02-19T13:17:27: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:17:28: 2023-02-19T13:17:28: 2023-02-19T13:17:43: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:17:44: 2023-02-19T13:17:44: 2023-02-19T13:17:59: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:18:00: 2023-02-19T13:18:00: 2023-02-19T13:18:15: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:18:16: 2023-02-19T13:18:16: 2023-02-19T13:18:31: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:18:32: 2023-02-19T13:18:32: 2023-02-19T13:18:47: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:18:48: 2023-02-19T13:18:48: 2023-02-19T13:19:03: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:19:04: 2023-02-19T13:19:04: 2023-02-19T13:19:19: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:19:20: 2023-02-19T13:19:20: 2023-02-19T13:19:35: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:19:36: 2023-02-19T13:19:36: 2023-02-19T13:19:51: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:19:51: 2023-02-19T13:19:51: 2023-02-19T13:20:07: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:20:07: 2023-02-19T13:20:07: 2023-02-19T13:20:23: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:20:23: 2023-02-19T13:20:23: 2023-02-19T13:20:38: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:20:39: 2023-02-19T13:20:39: 2023-02-19T13:20:54: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:20:55: 2023-02-19T13:20:55: 2023-02-19T13:21:10: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:21:11: 2023-02-19T13:21:11: 2023-02-19T13:21:26: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:21:27: 2023-02-19T13:21:27: 2023-02-19T13:21:42: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:21:43: 2023-02-19T13:21:43: 2023-02-19T13:21:58: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:21:58: 2023-02-19T13:21:58: 2023-02-19T13:22:14: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:22:14: 2023-02-19T13:22:14: 2023-02-19T13:22:30: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:22:30: 2023-02-19T13:22:30: 2023-02-19T13:22:45: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:22:46: 2023-02-19T13:22:46: 2023-02-19T13:23:01: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:23:02: 2023-02-19T13:23:02: 2023-02-19T13:23:17: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:23:18: 2023-02-19T13:23:18: 2023-02-19T13:23:33: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:23:34: 2023-02-19T13:23:34: 2023-02-19T13:23:49: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:23:50: 2023-02-19T13:23:50: 2023-02-19T13:24:05: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:24:06: 2023-02-19T13:24:06: 2023-02-19T13:24:21: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:24:21: 2023-02-19T13:24:21: 2023-02-19T13:24:37: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:24:37: 2023-02-19T13:24:37: 2023-02-19T13:24:53: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:24:53: 2023-02-19T13:24:53: 2023-02-19T13:25:08: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:25:09: 2023-02-19T13:25:09: 2023-02-19T13:25:24: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:25:25: 2023-02-19T13:25:25: 2023-02-19T13:25:40: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:25:41: 2023-02-19T13:25:41: 2023-02-19T13:25:56: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:25:57: 2023-02-19T13:25:57: 2023-02-19T13:26:12: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:26:13: 2023-02-19T13:26:13: 2023-02-19T13:26:28: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:26:28: 2023-02-19T13:26:28: 2023-02-19T13:26:44: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:26:44: 2023-02-19T13:26:44: 2023-02-19T13:27:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:27:00: 2023-02-19T13:27:00: 2023-02-19T13:27:15: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:27:16: 2023-02-19T13:27:16: 2023-02-19T13:27:31: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:27:32: 2023-02-19T13:27:32: 2023-02-19T13:27:47: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:27:48: 2023-02-19T13:27:48: 2023-02-19T13:28:03: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:28:04: 2023-02-19T13:28:04: 2023-02-19T13:28:19: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:28:20: 2023-02-19T13:28:20: 2023-02-19T13:28:35: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:28:36: 2023-02-19T13:28:36: 2023-02-19T13:28:51: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:28:51: 2023-02-19T13:28:51: 2023-02-19T13:29:07: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:29:07: 2023-02-19T13:29:07: 2023-02-19T13:29:23: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:29:23: 2023-02-19T13:29:23: 2023-02-19T13:29:38: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:29:39: 2023-02-19T13:29:39: 2023-02-19T13:29:54: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:29:55: 2023-02-19T13:29:55: 2023-02-19T13:30:10: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:30:11: 2023-02-19T13:30:11: 2023-02-19T13:30:26: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:30:27: 2023-02-19T13:30:27: 2023-02-19T13:30:42: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:30:43: 2023-02-19T13:30:43: 2023-02-19T13:30:58: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:30:59: 2023-02-19T13:30:59: 2023-02-19T13:31:14: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:31:14: 2023-02-19T13:31:14: 2023-02-19T13:31:30: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:31:30: 2023-02-19T13:31:30: 2023-02-19T13:31:46: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:31:46: 2023-02-19T13:31:46: 2023-02-19T13:32:01: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:32:02: 2023-02-19T13:32:02: 2023-02-19T13:32:17: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:32:18: 2023-02-19T13:32:18: 2023-02-19T13:32:33: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:32:34: 2023-02-19T13:32:34: 2023-02-19T13:32:49: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:32:50: 2023-02-19T13:32:50: 2023-02-19T13:33:05: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:33:06: 2023-02-19T13:33:06: 2023-02-19T13:33:21: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:33:22: 2023-02-19T13:33:22: 2023-02-19T13:33:37: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:33:38: 2023-02-19T13:33:38: 2023-02-19T13:33:53: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:33:54: 2023-02-19T13:33:54: 2023-02-19T13:34:09: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:34:09: 2023-02-19T13:34:09: 2023-02-19T13:34:25: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:34:25: 2023-02-19T13:34:25: 2023-02-19T13:34:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:34:41: 2023-02-19T13:34:41: 2023-02-19T13:34:56: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:34:57: 2023-02-19T13:34:57: 2023-02-19T13:35:12: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:35:13: 2023-02-19T13:35:13: 2023-02-19T13:35:28: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:35:29: 2023-02-19T13:35:29: 2023-02-19T13:35:44: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:35:45: 2023-02-19T13:35:45: 2023-02-19T13:36:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:36:01: 2023-02-19T13:36:01: 2023-02-19T13:36:16: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:36:17: 2023-02-19T13:36:17: 2023-02-19T13:36:32: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:36:32: 2023-02-19T13:36:32: 2023-02-19T13:36:48: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:36:48: 2023-02-19T13:36:48: 2023-02-19T13:37:04: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:37:04: 2023-02-19T13:37:04: 2023-02-19T13:37:19: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:37:20: 2023-02-19T13:37:20: 2023-02-19T13:37:36: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:37:36: 2023-02-19T13:37:36: 2023-02-19T13:37:51: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:37:52: 2023-02-19T13:37:52: 2023-02-19T13:38:07: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:38:08: 2023-02-19T13:38:08: 2023-02-19T13:38:23: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:38:24: 2023-02-19T13:38:24: 2023-02-19T13:38:39: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:38:40: 2023-02-19T13:38:40: 2023-02-19T13:38:55: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:38:56: 2023-02-19T13:38:56: 2023-02-19T13:39:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:39:12: 2023-02-19T13:39:12: 2023-02-19T13:39:27: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:39:28: 2023-02-19T13:39:28: 2023-02-19T13:39:43: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:39:44: 2023-02-19T13:39:44: 2023-02-19T13:39:59: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:39:59: 2023-02-19T13:39:59: 2023-02-19T13:40:15: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:40:15: 2023-02-19T13:40:15: 2023-02-19T13:40:31: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:40:31: 2023-02-19T13:40:31: 2023-02-19T13:40:46: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:40:47: 2023-02-19T13:40:47: 2023-02-19T13:41:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:41:03: 2023-02-19T13:41:03: 2023-02-19T13:41:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:41:19: 2023-02-19T13:41:19: 2023-02-19T13:41:34: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:41:35: 2023-02-19T13:41:35: 2023-02-19T13:41:50: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:41:51: 2023-02-19T13:41:51: 2023-02-19T13:42:06: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:42:07: 2023-02-19T13:42:07: 2023-02-19T13:42:22: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:42:22: 2023-02-19T13:42:22: 2023-02-19T13:42:38: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:42:38: 2023-02-19T13:42:38: 2023-02-19T13:42:54: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:42:54: 2023-02-19T13:42:54: 2023-02-19T13:43:10: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:43:10: 2023-02-19T13:43:10: 2023-02-19T13:43:25: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:43:26: 2023-02-19T13:43:26: 2023-02-19T13:43:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:43:42: 2023-02-19T13:43:42: 2023-02-19T13:43:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:43:58: 2023-02-19T13:43:58: 2023-02-19T13:44:13: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:44:14: 2023-02-19T13:44:14: 2023-02-19T13:44:29: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:44:30: 2023-02-19T13:44:30: 2023-02-19T13:44:45: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:44:46: 2023-02-19T13:44:46: 2023-02-19T13:45:01: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:45:01: 2023-02-19T13:45:01: 2023-02-19T13:45:17: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:45:17: 2023-02-19T13:45:17: 2023-02-19T13:45:33: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:45:33: 2023-02-19T13:45:33: 2023-02-19T13:45:49: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:45:49: 2023-02-19T13:45:49: 2023-02-19T13:46:04: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:46:05: 2023-02-19T13:46:05: 2023-02-19T13:46:20: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:46:21: 2023-02-19T13:46:21: 2023-02-19T13:46:36: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:46:37: 2023-02-19T13:46:37: 2023-02-19T13:46:52: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:46:53: 2023-02-19T13:46:53: 2023-02-19T13:47:08: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:47:09: 2023-02-19T13:47:09: 2023-02-19T13:47:24: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:47:25: 2023-02-19T13:47:25: 2023-02-19T13:47:40: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:47:40: 2023-02-19T13:47:40: 2023-02-19T13:47:56: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:47:56: 2023-02-19T13:47:56: 2023-02-19T13:48:12: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:48:12: 2023-02-19T13:48:12: 2023-02-19T13:48:28: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:48:28: 2023-02-19T13:48:28: 2023-02-19T13:48:44: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:48:44: 2023-02-19T13:48:44: 2023-02-19T13:49:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:49:00: 2023-02-19T13:49:00: 2023-02-19T13:49:16: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:49:16: 2023-02-19T13:49:16: 2023-02-19T13:49:32: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:49:33: 2023-02-19T13:49:33: 2023-02-19T13:49:48: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:49:48: 2023-02-19T13:49:48: 2023-02-19T13:50:04: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:50:04: 2023-02-19T13:50:04: 2023-02-19T13:50:20: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:50:20: 2023-02-19T13:50:20: 2023-02-19T13:50:36: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:50:36: 2023-02-19T13:50:36: 2023-02-19T13:50:51: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:50:52: 2023-02-19T13:50:52: 2023-02-19T13:51:07: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:51:08: 2023-02-19T13:51:08: 2023-02-19T13:51:23: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:51:24: 2023-02-19T13:51:24: 2023-02-19T13:51:39: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:51:40: 2023-02-19T13:51:40: 2023-02-19T13:51:55: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:51:56: 2023-02-19T13:51:56: 2023-02-19T13:52:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:52:11: 2023-02-19T13:52:11: 2023-02-19T13:52:27: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:52:27: 2023-02-19T13:52:27: 2023-02-19T13:52:43: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:52:43: 2023-02-19T13:52:43: 2023-02-19T13:52:58: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:52:59: 2023-02-19T13:52:59: 2023-02-19T13:53:14: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:53:15: 2023-02-19T13:53:15: 2023-02-19T13:53:30: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:53:31: 2023-02-19T13:53:31: 2023-02-19T13:53:46: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:53:47: 2023-02-19T13:53:47: 2023-02-19T13:54:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:54:03: 2023-02-19T13:54:03: 2023-02-19T13:54:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:54:18: 2023-02-19T13:54:18: 2023-02-19T13:54:34: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:54:34: 2023-02-19T13:54:34: 2023-02-19T13:54:50: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:54:50: 2023-02-19T13:54:50: 2023-02-19T13:55:06: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:55:06: 2023-02-19T13:55:06: 2023-02-19T13:55:22: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:55:22: 2023-02-19T13:55:22: 2023-02-19T13:55:37: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:55:38: 2023-02-19T13:55:38: 2023-02-19T13:55:53: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:55:54: 2023-02-19T13:55:54: 2023-02-19T13:56:09: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:56:10: 2023-02-19T13:56:10: 2023-02-19T13:56:25: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:56:26: 2023-02-19T13:56:26: 2023-02-19T13:56:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:56:42: 2023-02-19T13:56:42: 2023-02-19T13:56:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:56:57: 2023-02-19T13:56:57: 2023-02-19T13:57:13: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:57:13: 2023-02-19T13:57:13: 2023-02-19T13:57:29: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:57:29: 2023-02-19T13:57:29: 2023-02-19T13:57:44: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:57:45: 2023-02-19T13:57:45: 2023-02-19T13:58:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:58:01: 2023-02-19T13:58:01: 2023-02-19T13:58:16: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:58:17: 2023-02-19T13:58:17: 2023-02-19T13:58:32: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:58:33: 2023-02-19T13:58:33: 2023-02-19T13:58:48: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:58:49: 2023-02-19T13:58:49: 2023-02-19T13:59:04: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:59:05: 2023-02-19T13:59:05: 2023-02-19T13:59:20: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:59:20: 2023-02-19T13:59:20: 2023-02-19T13:59:36: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:59:36: 2023-02-19T13:59:36: 2023-02-19T13:59:52: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T13:59:52: 2023-02-19T13:59:52: 2023-02-19T14:00:07: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:00:08: 2023-02-19T14:00:08: 2023-02-19T14:00:23: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:00:24: 2023-02-19T14:00:24: 2023-02-19T14:00:39: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:00:40: 2023-02-19T14:00:40: 2023-02-19T14:00:55: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:00:56: 2023-02-19T14:00:56: 2023-02-19T14:01:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:01:12: 2023-02-19T14:01:12: 2023-02-19T14:01:27: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:01:27: 2023-02-19T14:01:27: 2023-02-19T14:01:43: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:01:43: 2023-02-19T14:01:43: 2023-02-19T14:01:59: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:01:59: 2023-02-19T14:01:59: 2023-02-19T14:02:14: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:02:15: 2023-02-19T14:02:15: 2023-02-19T14:02:30: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:02:31: 2023-02-19T14:02:31: 2023-02-19T14:02:46: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:02:47: 2023-02-19T14:02:47: 2023-02-19T14:03:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:03:03: 2023-02-19T14:03:03: 2023-02-19T14:03:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:03:19: 2023-02-19T14:03:19: 2023-02-19T14:03:34: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:03:35: 2023-02-19T14:03:35: 2023-02-19T14:03:50: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:03:50: 2023-02-19T14:03:50: 2023-02-19T14:04:06: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:04:06: 2023-02-19T14:04:06: 2023-02-19T14:04:22: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:04:22: 2023-02-19T14:04:22: 2023-02-19T14:04:37: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:04:38: 2023-02-19T14:04:38: 2023-02-19T14:04:53: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:04:54: 2023-02-19T14:04:54: 2023-02-19T14:05:09: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:05:10: 2023-02-19T14:05:10: 2023-02-19T14:05:25: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:05:26: 2023-02-19T14:05:26: 2023-02-19T14:05:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:05:42: 2023-02-19T14:05:42: 2023-02-19T14:05:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:05:58: 2023-02-19T14:05:58: 2023-02-19T14:06:13: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:06:13: 2023-02-19T14:06:13: 2023-02-19T14:06:29: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:06:29: 2023-02-19T14:06:29: 2023-02-19T14:06:45: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:06:45: 2023-02-19T14:06:45: 2023-02-19T14:07:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:07:01: 2023-02-19T14:07:01: 2023-02-19T14:07:16: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:07:17: 2023-02-19T14:07:17: 2023-02-19T14:07:33: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:07:33: 2023-02-19T14:07:33: 2023-02-19T14:07:49: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:07:49: 2023-02-19T14:07:49: 2023-02-19T14:08:04: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:08:05: 2023-02-19T14:08:05: 2023-02-19T14:08:20: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:08:21: 2023-02-19T14:08:21: 2023-02-19T14:08:36: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:08:37: 2023-02-19T14:08:37: 2023-02-19T14:08:52: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:08:53: 2023-02-19T14:08:53: 2023-02-19T14:09:08: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:09:09: 2023-02-19T14:09:09: 2023-02-19T14:09:24: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:09:24: 2023-02-19T14:09:24: 2023-02-19T14:09:40: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:09:40: 2023-02-19T14:09:40: 2023-02-19T14:09:56: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:09:56: 2023-02-19T14:09:56: 2023-02-19T14:10:12: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:10:12: 2023-02-19T14:10:12: 2023-02-19T14:10:27: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:10:28: 2023-02-19T14:10:28: 2023-02-19T14:10:43: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:10:44: 2023-02-19T14:10:44: 2023-02-19T14:10:59: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:11:00: 2023-02-19T14:11:00: 2023-02-19T14:11:15: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:11:16: 2023-02-19T14:11:16: 2023-02-19T14:11:31: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:11:31: 2023-02-19T14:11:31: 2023-02-19T14:11:47: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:11:47: 2023-02-19T14:11:47: 2023-02-19T14:12:03: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:12:03: 2023-02-19T14:12:03: 2023-02-19T14:12:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:12:19: 2023-02-19T14:12:19: 2023-02-19T14:12:34: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:12:35: 2023-02-19T14:12:35: 2023-02-19T14:12:50: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:12:51: 2023-02-19T14:12:51: 2023-02-19T14:13:06: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:13:07: 2023-02-19T14:13:07: 2023-02-19T14:13:22: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:13:23: 2023-02-19T14:13:23: 2023-02-19T14:13:38: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:13:39: 2023-02-19T14:13:39: 2023-02-19T14:13:54: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:13:54: 2023-02-19T14:13:54: 2023-02-19T14:14:10: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:14:10: 2023-02-19T14:14:10: 2023-02-19T14:14:26: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:14:26: 2023-02-19T14:14:26: 2023-02-19T14:14:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:14:42: 2023-02-19T14:14:42: 2023-02-19T14:14:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:14:58: 2023-02-19T14:14:58: 2023-02-19T14:15:13: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:15:14: 2023-02-19T14:15:14: 2023-02-19T14:15:29: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:15:30: 2023-02-19T14:15:30: 2023-02-19T14:15:45: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:15:46: 2023-02-19T14:15:46: 2023-02-19T14:16:01: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:16:01: 2023-02-19T14:16:01: 2023-02-19T14:16:17: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:16:17: 2023-02-19T14:16:17: 2023-02-19T14:16:33: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:16:33: 2023-02-19T14:16:33: 2023-02-19T14:16:48: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:16:49: 2023-02-19T14:16:49: 2023-02-19T14:17:04: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:17:05: 2023-02-19T14:17:05: 2023-02-19T14:17:20: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:17:21: 2023-02-19T14:17:21: 2023-02-19T14:17:36: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:17:37: 2023-02-19T14:17:37: 2023-02-19T14:17:52: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:17:53: 2023-02-19T14:17:53: 2023-02-19T14:18:08: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:18:08: 2023-02-19T14:18:08: 2023-02-19T14:18:24: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:18:24: 2023-02-19T14:18:24: 2023-02-19T14:18:40: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:18:40: 2023-02-19T14:18:40: 2023-02-19T14:18:56: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:18:56: 2023-02-19T14:18:56: 2023-02-19T14:19:12: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:19:12: 2023-02-19T14:19:12: 2023-02-19T14:19:28: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:19:28: 2023-02-19T14:19:28: 2023-02-19T14:19:44: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:19:44: 2023-02-19T14:19:44: 2023-02-19T14:19:59: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:20:00: 2023-02-19T14:20:00: 2023-02-19T14:20:15: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:20:16: 2023-02-19T14:20:16: 2023-02-19T14:20:31: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:20:32: 2023-02-19T14:20:32: 2023-02-19T14:20:47: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:20:48: 2023-02-19T14:20:48: 2023-02-19T14:21:03: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:21:04: 2023-02-19T14:21:04: 2023-02-19T14:21:19: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:21:19: 2023-02-19T14:21:19: 2023-02-19T14:21:35: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:21:35: 2023-02-19T14:21:35: 2023-02-19T14:21:51: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:21:51: 2023-02-19T14:21:51: 2023-02-19T14:22:06: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:22:07: 2023-02-19T14:22:07: 2023-02-19T14:22:22: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:22:23: 2023-02-19T14:22:23: 2023-02-19T14:22:38: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:22:39: 2023-02-19T14:22:39: 2023-02-19T14:22:54: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:22:55: 2023-02-19T14:22:55: 2023-02-19T14:23:10: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:23:11: 2023-02-19T14:23:11: 2023-02-19T14:23:26: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:23:26: 2023-02-19T14:23:26: 2023-02-19T14:23:42: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:23:42: 2023-02-19T14:23:42: 2023-02-19T14:23:58: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:23:58: 2023-02-19T14:23:58: 2023-02-19T14:24:14: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:24:14: 2023-02-19T14:24:14: 2023-02-19T14:24:29: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:24:30: 2023-02-19T14:24:30: 2023-02-19T14:24:45: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:24:46: 2023-02-19T14:24:46: 2023-02-19T14:25:01: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:25:02: 2023-02-19T14:25:02: 2023-02-19T14:25:17: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:25:18: 2023-02-19T14:25:18: 2023-02-19T14:25:33: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:25:34: 2023-02-19T14:25:34: 2023-02-19T14:25:49: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:25:50: 2023-02-19T14:25:50: 2023-02-19T14:26:05: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:26:05: 2023-02-19T14:26:05: 2023-02-19T14:26:21: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:26:21: 2023-02-19T14:26:21: 2023-02-19T14:26:37: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:26:37: 2023-02-19T14:26:37: 2023-02-19T14:26:52: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:26:53: 2023-02-19T14:26:53: 2023-02-19T14:27:08: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:27:09: 2023-02-19T14:27:09: 2023-02-19T14:27:25: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:27:25: 2023-02-19T14:27:25: 2023-02-19T14:27:40: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:27:41: 2023-02-19T14:27:41: 2023-02-19T14:27:56: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:27:57: 2023-02-19T14:27:57: 2023-02-19T14:28:12: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:28:13: 2023-02-19T14:28:13: 2023-02-19T14:28:28: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:28:29: 2023-02-19T14:28:29: 2023-02-19T14:28:44: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:28:45: 2023-02-19T14:28:45: 2023-02-19T14:29:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:29:00: 2023-02-19T14:29:00: 2023-02-19T14:29:16: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:29:16: 2023-02-19T14:29:16: 2023-02-19T14:29:32: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:29:32: 2023-02-19T14:29:32: 2023-02-19T14:29:47: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:29:48: 2023-02-19T14:29:48: 2023-02-19T14:30:03: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:30:04: 2023-02-19T14:30:04: 2023-02-19T14:30:19: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:30:20: 2023-02-19T14:30:20: 2023-02-19T14:30:35: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:30:36: 2023-02-19T14:30:36: 2023-02-19T14:30:51: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:30:52: 2023-02-19T14:30:52: 2023-02-19T14:31:07: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:31:08: 2023-02-19T14:31:08: 2023-02-19T14:31:23: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:31:24: 2023-02-19T14:31:24: 2023-02-19T14:31:39: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:31:40: 2023-02-19T14:31:40: 2023-02-19T14:31:55: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:31:56: 2023-02-19T14:31:56: 2023-02-19T14:32:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:32:12: 2023-02-19T14:32:12: 2023-02-19T14:32:27: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:32:27: 2023-02-19T14:32:27: 2023-02-19T14:32:43: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:32:43: 2023-02-19T14:32:43: 2023-02-19T14:32:59: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:33:00: 2023-02-19T14:33:00: 2023-02-19T14:33:15: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:33:15: 2023-02-19T14:33:15: 2023-02-19T14:33:31: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:33:31: 2023-02-19T14:33:31: 2023-02-19T14:33:47: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:33:47: 2023-02-19T14:33:47: 2023-02-19T14:34:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:34:03: 2023-02-19T14:34:03: 2023-02-19T14:34:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:34:19: 2023-02-19T14:34:19: 2023-02-19T14:34:34: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:34:35: 2023-02-19T14:34:35: 2023-02-19T14:34:50: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:34:51: 2023-02-19T14:34:51: 2023-02-19T14:35:06: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:35:07: 2023-02-19T14:35:07: 2023-02-19T14:35:22: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:35:22: 2023-02-19T14:35:22: 2023-02-19T14:35:38: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:35:38: 2023-02-19T14:35:38: 2023-02-19T14:35:54: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:35:54: 2023-02-19T14:35:54: 2023-02-19T14:36:09: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:36:10: 2023-02-19T14:36:10: 2023-02-19T14:36:25: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:36:26: 2023-02-19T14:36:26: 2023-02-19T14:36:42: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:36:42: 2023-02-19T14:36:42: 2023-02-19T14:36:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:36:58: 2023-02-19T14:36:58: 2023-02-19T14:37:13: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:37:14: 2023-02-19T14:37:14: 2023-02-19T14:37:29: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:37:30: 2023-02-19T14:37:30: 2023-02-19T14:37:45: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:37:46: 2023-02-19T14:37:46: 2023-02-19T14:38:01: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:38:02: 2023-02-19T14:38:02: 2023-02-19T14:38:17: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:38:17: 2023-02-19T14:38:17: 2023-02-19T14:38:33: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:38:33: 2023-02-19T14:38:33: 2023-02-19T14:38:49: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:38:49: 2023-02-19T14:38:49: 2023-02-19T14:39:04: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:39:05: 2023-02-19T14:39:05: 2023-02-19T14:39:20: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:39:21: 2023-02-19T14:39:21: 2023-02-19T14:39:36: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:39:37: 2023-02-19T14:39:37: 2023-02-19T14:39:52: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:39:53: 2023-02-19T14:39:53: 2023-02-19T14:40:08: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:40:09: 2023-02-19T14:40:09: 2023-02-19T14:40:24: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:40:24: 2023-02-19T14:40:24: 2023-02-19T14:40:40: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:40:40: 2023-02-19T14:40:40: 2023-02-19T14:40:56: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:40:56: 2023-02-19T14:40:56: 2023-02-19T14:41:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:41:12: 2023-02-19T14:41:12: 2023-02-19T14:41:27: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:41:28: 2023-02-19T14:41:28: 2023-02-19T14:41:43: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:41:44: 2023-02-19T14:41:44: 2023-02-19T14:41:59: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:42:00: 2023-02-19T14:42:00: 2023-02-19T14:42:15: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:42:16: 2023-02-19T14:42:16: 2023-02-19T14:42:31: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:42:31: 2023-02-19T14:42:31: 2023-02-19T14:42:47: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:42:47: 2023-02-19T14:42:47: 2023-02-19T14:43:03: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:43:03: 2023-02-19T14:43:03: 2023-02-19T14:43:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:43:19: 2023-02-19T14:43:19: 2023-02-19T14:43:34: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:43:35: 2023-02-19T14:43:35: 2023-02-19T14:43:50: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:43:51: 2023-02-19T14:43:51: 2023-02-19T14:44:06: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:44:07: 2023-02-19T14:44:07: 2023-02-19T14:44:22: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:44:23: 2023-02-19T14:44:23: 2023-02-19T14:44:38: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:44:38: 2023-02-19T14:44:38: 2023-02-19T14:44:54: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:44:54: 2023-02-19T14:44:54: 2023-02-19T14:45:10: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:45:10: 2023-02-19T14:45:10: 2023-02-19T14:45:25: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:45:26: 2023-02-19T14:45:26: 2023-02-19T14:45:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:45:42: 2023-02-19T14:45:42: 2023-02-19T14:45:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:45:58: 2023-02-19T14:45:58: 2023-02-19T14:46:13: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:46:14: 2023-02-19T14:46:14: 2023-02-19T14:46:29: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:46:30: 2023-02-19T14:46:30: 2023-02-19T14:46:45: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:46:46: 2023-02-19T14:46:46: 2023-02-19T14:47:01: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:47:01: 2023-02-19T14:47:01: 2023-02-19T14:47:17: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:47:17: 2023-02-19T14:47:17: 2023-02-19T14:47:33: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:47:33: 2023-02-19T14:47:33: 2023-02-19T14:47:48: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:47:49: 2023-02-19T14:47:49: 2023-02-19T14:48:04: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:48:05: 2023-02-19T14:48:05: 2023-02-19T14:48:20: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:48:21: 2023-02-19T14:48:21: 2023-02-19T14:48:36: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:48:37: 2023-02-19T14:48:37: 2023-02-19T14:48:52: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:48:53: 2023-02-19T14:48:53: 2023-02-19T14:49:08: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:49:08: 2023-02-19T14:49:08: 2023-02-19T14:49:24: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:49:24: 2023-02-19T14:49:24: 2023-02-19T14:49:40: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:49:40: 2023-02-19T14:49:40: 2023-02-19T14:49:55: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:49:56: 2023-02-19T14:49:56: 2023-02-19T14:50:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:50:12: 2023-02-19T14:50:12: 2023-02-19T14:50:27: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:50:28: 2023-02-19T14:50:28: 2023-02-19T14:50:43: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:50:44: 2023-02-19T14:50:44: 2023-02-19T14:50:59: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:51:00: 2023-02-19T14:51:00: 2023-02-19T14:51:15: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:51:15: 2023-02-19T14:51:15: 2023-02-19T14:51:31: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:51:31: 2023-02-19T14:51:31: 2023-02-19T14:51:47: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:51:47: 2023-02-19T14:51:47: 2023-02-19T14:52:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:52:03: 2023-02-19T14:52:03: 2023-02-19T14:52:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:52:19: 2023-02-19T14:52:19: 2023-02-19T14:52:34: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:52:35: 2023-02-19T14:52:35: 2023-02-19T14:52:50: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:52:51: 2023-02-19T14:52:51: 2023-02-19T14:53:06: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:53:07: 2023-02-19T14:53:07: 2023-02-19T14:53:22: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:53:22: 2023-02-19T14:53:22: 2023-02-19T14:53:38: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:53:38: 2023-02-19T14:53:38: 2023-02-19T14:53:54: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:53:54: 2023-02-19T14:53:54: 2023-02-19T14:54:09: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:54:10: 2023-02-19T14:54:10: 2023-02-19T14:54:25: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:54:26: 2023-02-19T14:54:26: 2023-02-19T14:54:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:54:42: 2023-02-19T14:54:42: 2023-02-19T14:54:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:54:58: 2023-02-19T14:54:58: 2023-02-19T14:55:13: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:55:14: 2023-02-19T14:55:14: 2023-02-19T14:55:29: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:55:30: 2023-02-19T14:55:30: 2023-02-19T14:55:45: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:55:46: 2023-02-19T14:55:46: 2023-02-19T14:56:01: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:56:02: 2023-02-19T14:56:02: 2023-02-19T14:56:17: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:56:18: 2023-02-19T14:56:18: 2023-02-19T14:56:33: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:56:33: 2023-02-19T14:56:33: 2023-02-19T14:56:49: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:56:49: 2023-02-19T14:56:49: 2023-02-19T14:57:05: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:57:05: 2023-02-19T14:57:05: 2023-02-19T14:57:20: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:57:21: 2023-02-19T14:57:21: 2023-02-19T14:57:36: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:57:37: 2023-02-19T14:57:37: 2023-02-19T14:57:52: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:57:53: 2023-02-19T14:57:53: 2023-02-19T14:58:08: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:58:09: 2023-02-19T14:58:09: 2023-02-19T14:58:24: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:58:25: 2023-02-19T14:58:25: 2023-02-19T14:58:40: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:58:40: 2023-02-19T14:58:40: 2023-02-19T14:58:56: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:58:56: 2023-02-19T14:58:56: 2023-02-19T14:59:12: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:59:12: 2023-02-19T14:59:12: 2023-02-19T14:59:27: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:59:28: 2023-02-19T14:59:28: 2023-02-19T14:59:43: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T14:59:44: 2023-02-19T14:59:44: 2023-02-19T14:59:59: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:00:00: 2023-02-19T15:00:00: 2023-02-19T15:00:15: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:00:16: 2023-02-19T15:00:16: 2023-02-19T15:00:31: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:00:32: 2023-02-19T15:00:32: 2023-02-19T15:00:47: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:00:47: 2023-02-19T15:00:47: 2023-02-19T15:01:03: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:01:03: 2023-02-19T15:01:03: 2023-02-19T15:01:19: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:01:19: 2023-02-19T15:01:19: 2023-02-19T15:01:34: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:01:35: 2023-02-19T15:01:35: 2023-02-19T15:01:50: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:01:51: 2023-02-19T15:01:51: 2023-02-19T15:02:06: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:02:07: 2023-02-19T15:02:07: 2023-02-19T15:02:22: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:02:23: 2023-02-19T15:02:23: 2023-02-19T15:02:38: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:02:39: 2023-02-19T15:02:39: 2023-02-19T15:02:54: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:02:54: 2023-02-19T15:02:54: 2023-02-19T15:03:10: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:03:10: 2023-02-19T15:03:10: 2023-02-19T15:03:26: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:03:26: 2023-02-19T15:03:26: 2023-02-19T15:03:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:03:42: 2023-02-19T15:03:42: 2023-02-19T15:03:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:03:58: 2023-02-19T15:03:58: 2023-02-19T15:04:13: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:04:14: 2023-02-19T15:04:14: 2023-02-19T15:04:29: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:04:30: 2023-02-19T15:04:30: 2023-02-19T15:04:45: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:04:46: 2023-02-19T15:04:46: 2023-02-19T15:05:01: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:05:01: 2023-02-19T15:05:01: 2023-02-19T15:05:17: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:05:17: 2023-02-19T15:05:17: 2023-02-19T15:05:33: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:05:33: 2023-02-19T15:05:33: 2023-02-19T15:05:48: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:05:49: 2023-02-19T15:05:49: 2023-02-19T15:06:04: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:06:05: 2023-02-19T15:06:05: 2023-02-19T15:06:20: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:06:21: 2023-02-19T15:06:21: 2023-02-19T15:06:36: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:06:37: 2023-02-19T15:06:37: 2023-02-19T15:06:52: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:06:53: 2023-02-19T15:06:53: 2023-02-19T15:07:08: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:07:08: 2023-02-19T15:07:08: 2023-02-19T15:07:24: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:07:24: 2023-02-19T15:07:24: 2023-02-19T15:07:40: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:07:40: 2023-02-19T15:07:40: 2023-02-19T15:07:55: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:07:56: 2023-02-19T15:07:56: 2023-02-19T15:08:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:08:12: 2023-02-19T15:08:12: 2023-02-19T15:08:27: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:08:28: 2023-02-19T15:08:28: 2023-02-19T15:08:43: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:08:44: 2023-02-19T15:08:44: 2023-02-19T15:08:59: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:09:00: 2023-02-19T15:09:00: 2023-02-19T15:09:15: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:09:15: 2023-02-19T15:09:15: 2023-02-19T15:09:31: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:09:31: 2023-02-19T15:09:31: 2023-02-19T15:09:47: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:09:47: 2023-02-19T15:09:47: 2023-02-19T15:10:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:10:03: 2023-02-19T15:10:03: 2023-02-19T15:10:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:10:19: 2023-02-19T15:10:19: 2023-02-19T15:10:34: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:10:35: 2023-02-19T15:10:35: 2023-02-19T15:10:50: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:10:51: 2023-02-19T15:10:51: 2023-02-19T15:11:06: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:11:07: 2023-02-19T15:11:07: 2023-02-19T15:11:22: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:11:22: 2023-02-19T15:11:22: 2023-02-19T15:11:38: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:11:38: 2023-02-19T15:11:38: 2023-02-19T15:11:54: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:11:54: 2023-02-19T15:11:54: 2023-02-19T15:12:09: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:12:10: 2023-02-19T15:12:10: 2023-02-19T15:12:25: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:12:26: 2023-02-19T15:12:26: 2023-02-19T15:12:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:12:42: 2023-02-19T15:12:42: 2023-02-19T15:12:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:12:58: 2023-02-19T15:12:58: 2023-02-19T15:13:13: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:13:14: 2023-02-19T15:13:14: 2023-02-19T15:13:29: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:13:29: 2023-02-19T15:13:29: 2023-02-19T15:13:45: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:13:45: 2023-02-19T15:13:45: 2023-02-19T15:14:01: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:14:01: 2023-02-19T15:14:01: 2023-02-19T15:14:16: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:14:17: 2023-02-19T15:14:17: 2023-02-19T15:14:32: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:14:33: 2023-02-19T15:14:33: 2023-02-19T15:14:48: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:14:49: 2023-02-19T15:14:49: 2023-02-19T15:15:04: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:15:05: 2023-02-19T15:15:05: 2023-02-19T15:15:20: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:15:21: 2023-02-19T15:15:21: 2023-02-19T15:15:36: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:15:36: 2023-02-19T15:15:36: 2023-02-19T15:15:52: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:15:52: 2023-02-19T15:15:52: 2023-02-19T15:16:08: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:16:08: 2023-02-19T15:16:08: 2023-02-19T15:16:23: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:16:24: 2023-02-19T15:16:24: 2023-02-19T15:16:39: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:16:40: 2023-02-19T15:16:40: 2023-02-19T15:16:55: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:16:56: 2023-02-19T15:16:56: 2023-02-19T15:17:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:17:12: 2023-02-19T15:17:12: 2023-02-19T15:17:27: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:17:28: 2023-02-19T15:17:28: 2023-02-19T15:17:43: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:17:43: 2023-02-19T15:17:43: 2023-02-19T15:17:59: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:17:59: 2023-02-19T15:17:59: 2023-02-19T15:18:15: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:18:15: 2023-02-19T15:18:15: 2023-02-19T15:18:30: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:18:31: 2023-02-19T15:18:31: 2023-02-19T15:18:46: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:18:47: 2023-02-19T15:18:47: 2023-02-19T15:19:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:19:03: 2023-02-19T15:19:03: 2023-02-19T15:19:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:19:19: 2023-02-19T15:19:19: 2023-02-19T15:19:34: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:19:35: 2023-02-19T15:19:35: 2023-02-19T15:19:50: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:19:50: 2023-02-19T15:19:50: 2023-02-19T15:20:06: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:20:06: 2023-02-19T15:20:06: 2023-02-19T15:20:22: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:20:22: 2023-02-19T15:20:22: 2023-02-19T15:20:37: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:20:38: 2023-02-19T15:20:38: 2023-02-19T15:20:53: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:20:54: 2023-02-19T15:20:54: 2023-02-19T15:21:09: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:21:10: 2023-02-19T15:21:10: 2023-02-19T15:21:25: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:21:26: 2023-02-19T15:21:26: 2023-02-19T15:21:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:21:42: 2023-02-19T15:21:42: 2023-02-19T15:21:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:21:57: 2023-02-19T15:21:57: 2023-02-19T15:22:13: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:22:13: 2023-02-19T15:22:13: 2023-02-19T15:22:29: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:22:29: 2023-02-19T15:22:29: 2023-02-19T15:22:44: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:22:45: 2023-02-19T15:22:45: 2023-02-19T15:23:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:23:01: 2023-02-19T15:23:01: 2023-02-19T15:23:16: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:23:17: 2023-02-19T15:23:17: 2023-02-19T15:23:32: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:23:33: 2023-02-19T15:23:33: 2023-02-19T15:23:48: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:23:49: 2023-02-19T15:23:49: 2023-02-19T15:24:04: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:24:04: 2023-02-19T15:24:04: 2023-02-19T15:24:20: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:24:20: 2023-02-19T15:24:20: 2023-02-19T15:24:36: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:24:36: 2023-02-19T15:24:36: 2023-02-19T15:24:51: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:24:52: 2023-02-19T15:24:52: 2023-02-19T15:25:07: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:25:08: 2023-02-19T15:25:08: 2023-02-19T15:25:23: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:25:24: 2023-02-19T15:25:24: 2023-02-19T15:25:39: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:25:40: 2023-02-19T15:25:40: 2023-02-19T15:25:55: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:25:56: 2023-02-19T15:25:56: 2023-02-19T15:26:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:26:11: 2023-02-19T15:26:11: 2023-02-19T15:26:27: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:26:27: 2023-02-19T15:26:27: 2023-02-19T15:26:43: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:26:43: 2023-02-19T15:26:43: 2023-02-19T15:26:58: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:26:59: 2023-02-19T15:26:59: 2023-02-19T15:27:14: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:27:15: 2023-02-19T15:27:15: 2023-02-19T15:27:30: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:27:31: 2023-02-19T15:27:31: 2023-02-19T15:27:46: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:27:47: 2023-02-19T15:27:47: 2023-02-19T15:28:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:28:03: 2023-02-19T15:28:03: 2023-02-19T15:28:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:28:18: 2023-02-19T15:28:18: 2023-02-19T15:28:34: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:28:34: 2023-02-19T15:28:34: 2023-02-19T15:28:50: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:28:50: 2023-02-19T15:28:50: 2023-02-19T15:29:05: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:29:06: 2023-02-19T15:29:06: 2023-02-19T15:29:21: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:29:22: 2023-02-19T15:29:22: 2023-02-19T15:29:37: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:29:38: 2023-02-19T15:29:38: 2023-02-19T15:29:53: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:29:54: 2023-02-19T15:29:54: 2023-02-19T15:30:09: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:30:10: 2023-02-19T15:30:10: 2023-02-19T15:30:25: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:30:25: 2023-02-19T15:30:25: 2023-02-19T15:30:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:30:41: 2023-02-19T15:30:41: 2023-02-19T15:30:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:30:57: 2023-02-19T15:30:57: 2023-02-19T15:31:12: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:31:13: 2023-02-19T15:31:13: 2023-02-19T15:31:28: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:31:29: 2023-02-19T15:31:29: 2023-02-19T15:31:44: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:31:45: 2023-02-19T15:31:45: 2023-02-19T15:32:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:32:01: 2023-02-19T15:32:01: 2023-02-19T15:32:16: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:32:17: 2023-02-19T15:32:17: 2023-02-19T15:32:32: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:32:32: 2023-02-19T15:32:32: 2023-02-19T15:32:48: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:32:48: 2023-02-19T15:32:48: 2023-02-19T15:33:04: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:33:04: 2023-02-19T15:33:04: 2023-02-19T15:33:19: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:33:20: 2023-02-19T15:33:20: 2023-02-19T15:33:35: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:33:36: 2023-02-19T15:33:36: 2023-02-19T15:33:51: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:33:52: 2023-02-19T15:33:52: 2023-02-19T15:34:07: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:34:08: 2023-02-19T15:34:08: 2023-02-19T15:34:23: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:34:24: 2023-02-19T15:34:24: 2023-02-19T15:34:39: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:34:40: 2023-02-19T15:34:40: 2023-02-19T15:34:55: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:34:55: 2023-02-19T15:34:55: 2023-02-19T15:35:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:35:11: 2023-02-19T15:35:11: 2023-02-19T15:35:27: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:35:27: 2023-02-19T15:35:27: 2023-02-19T15:35:42: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:35:43: 2023-02-19T15:35:43: 2023-02-19T15:35:58: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:35:59: 2023-02-19T15:35:59: 2023-02-19T15:36:14: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:36:15: 2023-02-19T15:36:15: 2023-02-19T15:36:30: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:36:31: 2023-02-19T15:36:31: 2023-02-19T15:36:46: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:36:47: 2023-02-19T15:36:47: 2023-02-19T15:37:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:37:03: 2023-02-19T15:37:03: 2023-02-19T15:37:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:37:18: 2023-02-19T15:37:18: 2023-02-19T15:37:34: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:37:34: 2023-02-19T15:37:34: 2023-02-19T15:37:50: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:37:50: 2023-02-19T15:37:50: 2023-02-19T15:38:05: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:38:06: 2023-02-19T15:38:06: 2023-02-19T15:38:21: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:38:22: 2023-02-19T15:38:22: 2023-02-19T15:38:37: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:38:38: 2023-02-19T15:38:38: 2023-02-19T15:38:53: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:38:54: 2023-02-19T15:38:54: 2023-02-19T15:39:09: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:39:10: 2023-02-19T15:39:10: 2023-02-19T15:39:25: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:39:26: 2023-02-19T15:39:26: 2023-02-19T15:39:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:39:42: 2023-02-19T15:39:42: 2023-02-19T15:39:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:39:58: 2023-02-19T15:39:58: 2023-02-19T15:40:13: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:40:14: 2023-02-19T15:40:14: 2023-02-19T15:40:29: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:40:29: 2023-02-19T15:40:29: 2023-02-19T15:40:45: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:40:45: 2023-02-19T15:40:45: 2023-02-19T15:41:01: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:41:01: 2023-02-19T15:41:01: 2023-02-19T15:41:16: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:41:17: 2023-02-19T15:41:17: 2023-02-19T15:41:32: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:41:33: 2023-02-19T15:41:33: 2023-02-19T15:41:48: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:41:49: 2023-02-19T15:41:49: 2023-02-19T15:42:04: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:42:05: 2023-02-19T15:42:05: 2023-02-19T15:42:20: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:42:21: 2023-02-19T15:42:21: 2023-02-19T15:42:36: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:42:36: 2023-02-19T15:42:36: 2023-02-19T15:42:52: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:42:52: 2023-02-19T15:42:52: 2023-02-19T15:43:08: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:43:08: 2023-02-19T15:43:08: 2023-02-19T15:43:23: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:43:24: 2023-02-19T15:43:24: 2023-02-19T15:43:39: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:43:40: 2023-02-19T15:43:40: 2023-02-19T15:43:55: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:43:56: 2023-02-19T15:43:56: 2023-02-19T15:44:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:44:12: 2023-02-19T15:44:12: 2023-02-19T15:44:27: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:44:28: 2023-02-19T15:44:28: 2023-02-19T15:44:43: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:44:43: 2023-02-19T15:44:43: 2023-02-19T15:44:59: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:44:59: 2023-02-19T15:44:59: 2023-02-19T15:45:15: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:45:15: 2023-02-19T15:45:15: 2023-02-19T15:45:30: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:45:31: 2023-02-19T15:45:31: 2023-02-19T15:45:46: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:45:47: 2023-02-19T15:45:47: 2023-02-19T15:46:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:46:03: 2023-02-19T15:46:03: 2023-02-19T15:46:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:46:19: 2023-02-19T15:46:19: 2023-02-19T15:46:34: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:46:35: 2023-02-19T15:46:35: 2023-02-19T15:46:50: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:46:50: 2023-02-19T15:46:50: 2023-02-19T15:47:06: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:47:06: 2023-02-19T15:47:06: 2023-02-19T15:47:22: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:47:22: 2023-02-19T15:47:22: 2023-02-19T15:47:38: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:47:38: 2023-02-19T15:47:38: 2023-02-19T15:47:53: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:47:54: 2023-02-19T15:47:54: 2023-02-19T15:48:09: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:48:10: 2023-02-19T15:48:10: 2023-02-19T15:48:25: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:48:26: 2023-02-19T15:48:26: 2023-02-19T15:48:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:48:42: 2023-02-19T15:48:42: 2023-02-19T15:48:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:48:58: 2023-02-19T15:48:58: 2023-02-19T15:49:13: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:49:13: 2023-02-19T15:49:13: 2023-02-19T15:49:29: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:49:29: 2023-02-19T15:49:29: 2023-02-19T15:49:45: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:49:45: 2023-02-19T15:49:45: 2023-02-19T15:50:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:50:01: 2023-02-19T15:50:01: 2023-02-19T15:50:16: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:50:17: 2023-02-19T15:50:17: 2023-02-19T15:50:32: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:50:33: 2023-02-19T15:50:33: 2023-02-19T15:50:48: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:50:49: 2023-02-19T15:50:49: 2023-02-19T15:51:04: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:51:05: 2023-02-19T15:51:05: 2023-02-19T15:51:20: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:51:20: 2023-02-19T15:51:20: 2023-02-19T15:51:36: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:51:36: 2023-02-19T15:51:36: 2023-02-19T15:51:52: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:51:52: 2023-02-19T15:51:52: 2023-02-19T15:52:07: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:52:08: 2023-02-19T15:52:08: 2023-02-19T15:52:23: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:52:24: 2023-02-19T15:52:24: 2023-02-19T15:52:39: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:52:40: 2023-02-19T15:52:40: 2023-02-19T15:52:55: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:52:56: 2023-02-19T15:52:56: 2023-02-19T15:53:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:53:12: 2023-02-19T15:53:12: 2023-02-19T15:53:27: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:53:27: 2023-02-19T15:53:27: 2023-02-19T15:53:43: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:53:43: 2023-02-19T15:53:43: 2023-02-19T15:53:59: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:53:59: 2023-02-19T15:53:59: 2023-02-19T15:54:14: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:54:15: 2023-02-19T15:54:15: 2023-02-19T15:54:30: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:54:31: 2023-02-19T15:54:31: 2023-02-19T15:54:46: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:54:47: 2023-02-19T15:54:47: 2023-02-19T15:55:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:55:03: 2023-02-19T15:55:03: 2023-02-19T15:55:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:55:19: 2023-02-19T15:55:19: 2023-02-19T15:55:34: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:55:34: 2023-02-19T15:55:34: 2023-02-19T15:55:50: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:55:50: 2023-02-19T15:55:50: 2023-02-19T15:56:06: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:56:06: 2023-02-19T15:56:06: 2023-02-19T15:56:21: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:56:22: 2023-02-19T15:56:22: 2023-02-19T15:56:37: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:56:38: 2023-02-19T15:56:38: 2023-02-19T15:56:53: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:56:54: 2023-02-19T15:56:54: 2023-02-19T15:57:09: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:57:10: 2023-02-19T15:57:10: 2023-02-19T15:57:25: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:57:26: 2023-02-19T15:57:26: 2023-02-19T15:57:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:57:41: 2023-02-19T15:57:41: 2023-02-19T15:57:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:57:57: 2023-02-19T15:57:57: 2023-02-19T15:58:13: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:58:13: 2023-02-19T15:58:13: 2023-02-19T15:58:28: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:58:29: 2023-02-19T15:58:29: 2023-02-19T15:58:44: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:58:45: 2023-02-19T15:58:45: 2023-02-19T15:59:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:59:01: 2023-02-19T15:59:01: 2023-02-19T15:59:16: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:59:17: 2023-02-19T15:59:17: 2023-02-19T15:59:32: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:59:33: 2023-02-19T15:59:33: 2023-02-19T15:59:48: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T15:59:48: 2023-02-19T15:59:48: 2023-02-19T16:00:04: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:00:04: 2023-02-19T16:00:04: 2023-02-19T16:00:20: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:00:20: 2023-02-19T16:00:20: 2023-02-19T16:00:35: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:00:36: 2023-02-19T16:00:36: 2023-02-19T16:00:51: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:00:52: 2023-02-19T16:00:52: 2023-02-19T16:01:07: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:01:08: 2023-02-19T16:01:08: 2023-02-19T16:01:23: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:01:24: 2023-02-19T16:01:24: 2023-02-19T16:01:39: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:01:40: 2023-02-19T16:01:40: 2023-02-19T16:01:55: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:01:56: 2023-02-19T16:01:56: 2023-02-19T16:02:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:02:11: 2023-02-19T16:02:11: 2023-02-19T16:02:27: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:02:27: 2023-02-19T16:02:27: 2023-02-19T16:02:42: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:02:43: 2023-02-19T16:02:43: 2023-02-19T16:02:58: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:02:59: 2023-02-19T16:02:59: 2023-02-19T16:03:14: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:03:15: 2023-02-19T16:03:15: 2023-02-19T16:03:30: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:03:31: 2023-02-19T16:03:31: 2023-02-19T16:03:46: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:03:47: 2023-02-19T16:03:47: 2023-02-19T16:04:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:04:03: 2023-02-19T16:04:03: 2023-02-19T16:04:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:04:18: 2023-02-19T16:04:18: 2023-02-19T16:04:34: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:04:34: 2023-02-19T16:04:34: 2023-02-19T16:04:49: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:04:50: 2023-02-19T16:04:50: 2023-02-19T16:05:05: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:05:06: 2023-02-19T16:05:06: 2023-02-19T16:05:21: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:05:22: 2023-02-19T16:05:22: 2023-02-19T16:05:37: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:05:38: 2023-02-19T16:05:38: 2023-02-19T16:05:53: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:05:54: 2023-02-19T16:05:54: 2023-02-19T16:06:09: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:06:10: 2023-02-19T16:06:10: 2023-02-19T16:06:25: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:06:25: 2023-02-19T16:06:25: 2023-02-19T16:06:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:06:41: 2023-02-19T16:06:41: 2023-02-19T16:06:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:06:57: 2023-02-19T16:06:57: 2023-02-19T16:07:12: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:07:13: 2023-02-19T16:07:13: 2023-02-19T16:07:28: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:07:29: 2023-02-19T16:07:29: 2023-02-19T16:07:44: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:07:45: 2023-02-19T16:07:45: 2023-02-19T16:08:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:08:01: 2023-02-19T16:08:01: 2023-02-19T16:08:16: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:08:17: 2023-02-19T16:08:17: 2023-02-19T16:08:32: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:08:32: 2023-02-19T16:08:32: 2023-02-19T16:08:48: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:08:48: 2023-02-19T16:08:48: 2023-02-19T16:09:03: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:09:04: 2023-02-19T16:09:04: 2023-02-19T16:09:19: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:09:20: 2023-02-19T16:09:20: 2023-02-19T16:09:35: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:09:36: 2023-02-19T16:09:36: 2023-02-19T16:09:51: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:09:52: 2023-02-19T16:09:52: 2023-02-19T16:10:07: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:10:08: 2023-02-19T16:10:08: 2023-02-19T16:10:23: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:10:24: 2023-02-19T16:10:24: 2023-02-19T16:10:39: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:10:39: 2023-02-19T16:10:39: 2023-02-19T16:10:55: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:10:55: 2023-02-19T16:10:55: 2023-02-19T16:11:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:11:11: 2023-02-19T16:11:11: 2023-02-19T16:11:26: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:11:27: 2023-02-19T16:11:27: 2023-02-19T16:11:42: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:11:43: 2023-02-19T16:11:43: 2023-02-19T16:11:58: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:11:59: 2023-02-19T16:11:59: 2023-02-19T16:12:14: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:12:15: 2023-02-19T16:12:15: 2023-02-19T16:12:30: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:12:31: 2023-02-19T16:12:31: 2023-02-19T16:12:46: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:12:47: 2023-02-19T16:12:47: 2023-02-19T16:13:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:13:02: 2023-02-19T16:13:02: 2023-02-19T16:13:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:13:18: 2023-02-19T16:13:18: 2023-02-19T16:13:34: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:13:34: 2023-02-19T16:13:34: 2023-02-19T16:13:50: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:13:50: 2023-02-19T16:13:50: 2023-02-19T16:14:05: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:14:06: 2023-02-19T16:14:06: 2023-02-19T16:14:21: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:14:22: 2023-02-19T16:14:22: 2023-02-19T16:14:37: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:14:38: 2023-02-19T16:14:38: 2023-02-19T16:14:53: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:14:54: 2023-02-19T16:14:54: 2023-02-19T16:15:09: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:15:10: 2023-02-19T16:15:10: 2023-02-19T16:15:25: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:15:25: 2023-02-19T16:15:25: 2023-02-19T16:15:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:15:41: 2023-02-19T16:15:41: 2023-02-19T16:15:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:15:57: 2023-02-19T16:15:57: 2023-02-19T16:16:12: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:16:13: 2023-02-19T16:16:13: 2023-02-19T16:16:28: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:16:29: 2023-02-19T16:16:29: 2023-02-19T16:16:44: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:16:45: 2023-02-19T16:16:45: 2023-02-19T16:17:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:17:01: 2023-02-19T16:17:01: 2023-02-19T16:17:16: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:17:17: 2023-02-19T16:17:17: 2023-02-19T16:17:32: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:17:33: 2023-02-19T16:17:33: 2023-02-19T16:17:48: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:17:48: 2023-02-19T16:17:48: 2023-02-19T16:18:04: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:18:04: 2023-02-19T16:18:04: 2023-02-19T16:18:20: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:18:20: 2023-02-19T16:18:20: 2023-02-19T16:18:35: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:18:36: 2023-02-19T16:18:36: 2023-02-19T16:18:51: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:18:52: 2023-02-19T16:18:52: 2023-02-19T16:19:07: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:19:08: 2023-02-19T16:19:08: 2023-02-19T16:19:23: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:19:24: 2023-02-19T16:19:24: 2023-02-19T16:19:39: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:19:40: 2023-02-19T16:19:40: 2023-02-19T16:19:55: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:19:56: 2023-02-19T16:19:56: 2023-02-19T16:20:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:20:12: 2023-02-19T16:20:12: 2023-02-19T16:20:27: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:20:28: 2023-02-19T16:20:28: 2023-02-19T16:20:44: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:20:45: 2023-02-19T16:20:45: 2023-02-19T16:21:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:21:01: 2023-02-19T16:21:01: 2023-02-19T16:21:16: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:21:16: 2023-02-19T16:21:16: 2023-02-19T16:21:32: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:21:33: 2023-02-19T16:21:33: 2023-02-19T16:21:48: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:21:49: 2023-02-19T16:21:49: 2023-02-19T16:21:56: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:21:56: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:21:57: 2023-02-19T16:21:57: 2023-02-19T16:21:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:21:58: 2023-02-19T16:21:58: 2023-02-19T16:21:59: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:00: 2023-02-19T16:22:01: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:02: 2023-02-19T16:22:02: 2023-02-19T16:22:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:03: 2023-02-19T16:22:03: 2023-02-19T16:22:03: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:04: 2023-02-19T16:22:04: 2023-02-19T16:22:05: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:05: 2023-02-19T16:22:05: 2023-02-19T16:22:06: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:07: 2023-02-19T16:22:07: 2023-02-19T16:22:08: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:09: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:09: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:10: 2023-02-19T16:22:10: 2023-02-19T16:22:10: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:12: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:12: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:12: 2023-02-19T16:22:12: 2023-02-19T16:22:13: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:14: 2023-02-19T16:22:14: 2023-02-19T16:22:14: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:14: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:15: 2023-02-19T16:22:15: 2023-02-19T16:22:15: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:16: 2023-02-19T16:22:16: 2023-02-19T16:22:17: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:17: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:18: 2023-02-19T16:22:18: 2023-02-19T16:22:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:19: 2023-02-19T16:22:19: 2023-02-19T16:22:19: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:20: 2023-02-19T16:22:20: 2023-02-19T16:22:20: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:21: 2023-02-19T16:22:21: 2023-02-19T16:22:22: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:22: 2023-02-19T16:22:22: 2023-02-19T16:22:23: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:24: 2023-02-19T16:22:24: 2023-02-19T16:22:25: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:26: 2023-02-19T16:22:26: 2023-02-19T16:22:28: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:29: 2023-02-19T16:22:29: 2023-02-19T16:22:31: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:32: 2023-02-19T16:22:32: 2023-02-19T16:22:36: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:37: 2023-02-19T16:22:37: 2023-02-19T16:22:43: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:43: 2023-02-19T16:22:43: 2023-02-19T16:22:52: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:22:53: 2023-02-19T16:22:53: 2023-02-19T16:23:06: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:23:07: 2023-02-19T16:23:07: 2023-02-19T16:23:22: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:23:23: 2023-02-19T16:23:23: 2023-02-19T16:23:38: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:23:39: 2023-02-19T16:23:39: 2023-02-19T16:23:54: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:23:55: 2023-02-19T16:23:55: 2023-02-19T16:24:10: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:24:10: 2023-02-19T16:24:10: 2023-02-19T16:24:26: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:24:26: 2023-02-19T16:24:26: 2023-02-19T16:24:42: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:24:43: 2023-02-19T16:24:43: 2023-02-19T16:24:58: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:24:59: 2023-02-19T16:24:59: 2023-02-19T16:25:14: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:25:15: 2023-02-19T16:25:15: 2023-02-19T16:25:30: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:25:31: 2023-02-19T16:25:31: 2023-02-19T16:25:46: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:25:46: 2023-02-19T16:25:46: 2023-02-19T16:26:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:26:02: 2023-02-19T16:26:02: 2023-02-19T16:26:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:26:18: 2023-02-19T16:26:18: 2023-02-19T16:26:33: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:26:34: 2023-02-19T16:26:34: 2023-02-19T16:26:49: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:26:50: 2023-02-19T16:26:50: 2023-02-19T16:27:05: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:06: 2023-02-19T16:27:06: 2023-02-19T16:27:21: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:22: 2023-02-19T16:27:22: 2023-02-19T16:27:33: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:33: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:34: 2023-02-19T16:27:34: 2023-02-19T16:27:34: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:35: 2023-02-19T16:27:35: 2023-02-19T16:27:35: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:36: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:36: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:37: 2023-02-19T16:27:37: 2023-02-19T16:27:37: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:38: 2023-02-19T16:27:38: 2023-02-19T16:27:38: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:38: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:39: 2023-02-19T16:27:39: 2023-02-19T16:27:40: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:41: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:42: 2023-02-19T16:27:42: 2023-02-19T16:27:42: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:43: 2023-02-19T16:27:43: 2023-02-19T16:27:43: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:44: 2023-02-19T16:27:44: 2023-02-19T16:27:45: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:45: 2023-02-19T16:27:45: 2023-02-19T16:27:46: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:47: 2023-02-19T16:27:47: 2023-02-19T16:27:48: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:48: 2023-02-19T16:27:48: 2023-02-19T16:27:50: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:50: 2023-02-19T16:27:50: 2023-02-19T16:27:52: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:53: 2023-02-19T16:27:53: 2023-02-19T16:27:56: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:27:56: 2023-02-19T16:27:56: 2023-02-19T16:28:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:28:01: 2023-02-19T16:28:01: 2023-02-19T16:28:07: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:28:08: 2023-02-19T16:28:08: 2023-02-19T16:28:17: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:28:17: 2023-02-19T16:28:17: 2023-02-19T16:28:30: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:28:31: 2023-02-19T16:28:31: 2023-02-19T16:28:47: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:28:47: 2023-02-19T16:28:47: 2023-02-19T16:29:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:29:03: 2023-02-19T16:29:03: 2023-02-19T16:29:18: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T16:29:19: 2023-02-19T16:29:19: 

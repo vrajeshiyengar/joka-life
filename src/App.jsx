@@ -5,8 +5,6 @@ import LandingPage from "./pages/LandingPage";
 import LoginPage from "./pages/LoginPage";
 import backgroundImage from "./assets/background.jpg";
 const App = () => {
-  const searchParams = new URLSearchParams(window.location.search);
-
   const [redirectUrlState, setRedirectUrlState] = useState(null);
   useEffect(() => {
     const urlParams = new URLSearchParams(window.location.search);

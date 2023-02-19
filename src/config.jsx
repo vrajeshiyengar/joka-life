@@ -188,7 +188,8 @@ const apis = {
       "http://ec2-3-7-207-170.ap-south-1.compute.amazonaws.com/api/auth/verifyAccessToken",
   },
 };
-export default {
+const exportObj = {
   applications: applications[env],
   apis: apis[env],
 };
+export default exportObj;
