@@ -16,11 +16,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "pm2start": "pm2 start ecosystem.config.js",
-    "pm2stop": "pm2 delete joka-life",
-    "pm2check": "pm2 status joka-life",
-    "pm2logs": "pm2 logs joka-life --lines 200",
-    "pm2restart": "pm2 reload joka-life"
+    "deploy": "cp ./build /var/www/html/jokaLife"
   },
   "eslintConfig": {
     "extends": [
