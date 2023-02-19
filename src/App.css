@@ -37,6 +37,7 @@
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     border-radius: 4px;
     width: 90%;
+    height: 80%;
   }
 }
 
@@ -211,7 +212,7 @@ a:hover {
   flex-direction: row;
   justify-content: center;
   align-items: flex-end;
-  padding: 20px
+  padding-bottom: 20px
 }
 .landing-logo {
   width: 8rem;
