@@ -16,7 +16,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "sudo cp -r ./build /var/www/html/jokaLife"
+    "deploy": "sudo cp -r ./build/* /var/www/html/home"
   },
   "eslintConfig": {
     "extends": [
