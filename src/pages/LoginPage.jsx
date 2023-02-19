@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import config from "../config";
+import iimcLogo from "../assets/iimc_logo.png";
 
 const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
   const [errorText, setErrorText] = useState("");
@@ -98,6 +99,9 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
   return (
     <div className="container">
       <div className="login_card">
+        <div className="login-logo-container">
+          <img src={iimcLogo} alt="IIM Calcutta" className="login-logo" />
+        </div>
         <div className="login_title">
           <h2>Login</h2>
           <a onClick={handleHomeClick}>Home</a>

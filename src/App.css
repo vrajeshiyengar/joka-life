@@ -137,7 +137,7 @@ a:hover {
 }
 @media (min-width: 770px) {
   .appcards_container {
-    height: 70vh;
+    height: 52vh;
     overflow-y: scroll;
     margin-top: 20px;
     padding:10px;
@@ -214,5 +214,44 @@ a:hover {
   padding: 20px
 }
 .landing-logo {
-  width: 15%
+  width: 10%
+}
+.login-logo-container {
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+}
+.login-logo {
+  width: 30%;
+  padding-bottom: 50px;
+}
+
+.footer {
+  font-size:small;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  background: rgb(0,0,0,0.3);
+  margin-top: -50px;
+  padding-right: 10px;
+  padding-left: 10px;
+  color: #fff
+}
+
+@media (min-width: 770px) {
+  .footer {
+    font-size:small;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 50px;
+    background: rgb(0,0,0,0.3);
+    margin-top: -50px;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #fff
+  }
 }

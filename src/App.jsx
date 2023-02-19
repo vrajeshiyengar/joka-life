@@ -29,6 +29,9 @@ const App = () => {
       ) : (
         <LandingPage setRedirectUrl={setRedirectUrlState} />
       )}
+      <footer className="footer">
+        Developed & Maintained by the Internet Solutions Group, IIM Calcutta
+      </footer>
     </div>
   );
 };
