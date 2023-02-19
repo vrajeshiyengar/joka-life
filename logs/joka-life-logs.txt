@@ -1161,3 +1161,116 @@
 2023-02-18T23:37:02: (node:5004) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
 2023-02-18T23:37:03: Starting the development server...
 2023-02-18T23:37:03: 
+2023-02-19T12:22:54: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:22:54: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:22:55: 2023-02-19T12:22:55: 2023-02-19T12:22:55: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:22:56: 2023-02-19T12:22:56: 2023-02-19T12:22:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:22:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:22:57: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:22:58: 2023-02-19T12:22:58: 2023-02-19T12:22:59: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:22:59: 2023-02-19T12:22:59: 2023-02-19T12:23:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:00: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:01: 2023-02-19T12:23:01: 2023-02-19T12:23:01: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:02: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:03: 2023-02-19T12:23:03: 2023-02-19T12:23:03: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:04: 2023-02-19T12:23:04: 2023-02-19T12:23:05: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:05: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:05: 2023-02-19T12:23:05: 2023-02-19T12:23:06: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:07: 2023-02-19T12:23:07: 2023-02-19T12:23:07: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:08: 2023-02-19T12:23:08: 2023-02-19T12:23:08: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:09: 2023-02-19T12:23:09: 2023-02-19T12:23:10: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:10: 2023-02-19T12:23:10: 2023-02-19T12:23:11: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:12: 2023-02-19T12:23:12: 2023-02-19T12:23:13: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:14: 2023-02-19T12:23:14: 2023-02-19T12:23:16: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:17: 2023-02-19T12:23:17: 2023-02-19T12:23:19: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:20: 2023-02-19T12:23:20: 2023-02-19T12:23:24: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:25: 2023-02-19T12:23:25: 2023-02-19T12:23:31: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:31: 2023-02-19T12:23:31: 2023-02-19T12:23:40: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:41: 2023-02-19T12:23:41: 2023-02-19T12:23:54: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:23:55: 2023-02-19T12:23:55: 2023-02-19T12:24:10: 
+> joka-life@0.1.0 start
+> react-scripts start
+
+2023-02-19T12:24:11: 2023-02-19T12:24:11: 

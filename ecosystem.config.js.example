@@ -10,7 +10,7 @@ module.exports = {
       exec_mode: "cluster",
       /* All env values are read as string by node */
       env: {
-        PORT: 4000,
+        PORT: "4000",
       },
       watch: true,
       log_date_format: "YYYY-MM-DD HH:mm:ss Z",
