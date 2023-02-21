@@ -18,6 +18,21 @@ import bg12 from "./assets/backgrounds/bg12.jpg";
 import bg13 from "./assets/backgrounds/bg13.jpg";
 import bg14 from "./assets/backgrounds/bg14.jpg";
 
+import { socials } from "./config";
+import iimcIcon from "./assets/social/iimc.png";
+import linkedinIcon from "./assets/social/linkedin.png";
+import instagramIcon from "./assets/social/instagram.png";
+import facebookIcon from "./assets/social/facebook.png";
+import twitterIcon from "./assets/social/twitter.png";
+import youtubeIcon from "./assets/social/youtube.png";
+const socialIcons = [
+  { alt: "iimc", src: iimcIcon },
+  { alt: "linkedin", src: linkedinIcon },
+  { alt: "instagram", src: instagramIcon },
+  { alt: "facebook", src: facebookIcon },
+  { alt: "twitter", src: twitterIcon },
+  { alt: "youtube", src: youtubeIcon },
+];
 const backgroundImage = [
   bg1,
   bg2,
@@ -37,6 +52,7 @@ const backgroundImage = [
 
 const App = () => {
   const [redirectUrlState, setRedirectUrlState] = useState(null);
+  const [loading, setLoading] = useState(true);
   useEffect(() => {
     const urlParams = new URLSearchParams(window.location.search);
     const redirectUrl = urlParams.get("redirectUrl");
@@ -48,27 +64,57 @@ const App = () => {
       window.history.replaceState(null, "", newUrl);
       setRedirectUrlState(redirectUrl);
     }
+    const onPageLoad = () => {
+      setLoading(false);
+    };
+    // Check if the page has already loaded
+    if (document.readyState === "complete") {
+      onPageLoad();
+    } else {
+      window.addEventListener("load", onPageLoad);
+      // Remove the event listener when component unmounts
+      return () => window.removeEventListener("load", onPageLoad);
+    }
   }, []);
-
-  return (
-    <div className="App" style={{ backgroundImage: `url(${backgroundImage})` }}>
-      <div className="overlay">
-        <div className="view-space">
-          {redirectUrlState ? (
-            <LoginPage
-              redirectUrl={redirectUrlState}
-              setRedirectUrl={setRedirectUrlState}
-            />
-          ) : (
-            <LandingPage setRedirectUrl={setRedirectUrlState} />
-          )}
-          <footer className="footer">
-            Developed & Maintained by the Internet Solutions Group, IIM Calcutta
-          </footer>
+  const redirectTo = (ev) => {
+    window.open(socials[ev.target.alt], "blank_");
+  };
+  if (loading) {
+    <></>;
+  } else {
+    return (
+      <div
+        className="App"
+        style={{ backgroundImage: `url(${backgroundImage})` }}
+      >
+        <div className="overlay">
+          <div className="view-space">
+            {redirectUrlState ? (
+              <LoginPage
+                redirectUrl={redirectUrlState}
+                setRedirectUrl={setRedirectUrlState}
+              />
+            ) : (
+              <LandingPage setRedirectUrl={setRedirectUrlState} />
+            )}
+            <footer className="footer">
+              <span>
+                Developed & maintained by the Internet Solutions Group, IIM
+                Calcutta
+              </span>
+              <div className="socials">
+                {socialIcons.map((icon) => (
+                  <div key={`social_icon_${icon.alt}`}>
+                    <img src={icon.src} alt={icon.alt} onClick={redirectTo} />
+                  </div>
+                ))}
+              </div>
+            </footer>
+          </div>
         </div>
       </div>
-    </div>
-  );
+    );
+  }
 };
 
 export default App;

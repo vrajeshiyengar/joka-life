@@ -1,6 +1,5 @@
-import IIMCLogo from "./assets/iimc_logo.png";
 import cardBg from "./assets/card-bg-white.png";
-// import more icons similarly for different apps
+
 export const applications = {
   cards: [
     {
@@ -78,8 +77,20 @@ export const apis = {
   forgotPassword: "/passwordResetApp#/",
   verifyAccessToken: "/api/auth/verifyAccessToken",
 };
+
+export const socials = {
+  iimc: "https://www.iimcal.ac.in/",
+  linkedin:
+    "https://www.linkedin.com/school/indian-institute-of-management-calcutta/",
+  instagram: "https://www.instagram.com/iimcalcutta/",
+  facebook: "https://www.facebook.com/iimcalcutta",
+  twitter: "https://twitter.com/IIM_Calcutta",
+  youtube: "https://www.youtube.com/user/IIMCalcutta",
+};
+
 const config = {
   applications,
   apis,
+  socials,
 };
 export default config;

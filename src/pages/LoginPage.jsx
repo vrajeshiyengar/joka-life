@@ -55,33 +55,6 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
     }
   };
 
-  const verifyAuthToken = (token) => {
-    if (token && token !== "null") {
-      const formData = new URLSearchParams();
-      formData.append("access_token", token);
-      fetch(apis.verifyAccessToken, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/x-www-form-urlencoded",
-          joka_auth_token: token,
-        },
-        body: formData.toString(),
-      })
-        .then((response) => response.json())
-        .then((body) => {
-          if (body.error) {
-            console.log("Cleared local joka_auth_token!!!");
-            localStorage.removeItem("joka_auth_token");
-          } else {
-            window.open(redirectUrl, "_blank");
-          }
-        })
-        .catch((err) => {
-          console.error(err);
-        });
-    }
-  };
-
   const handleForgotPassword = (event) => {
     event.preventDefault();
     window.open(apis.forgotPassword, "_blank");
@@ -93,7 +66,35 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
   };
 
   useEffect(() => {
-    verifyAuthToken(localStorage.getItem("joka_auth_token"));
+    const verifyAuthToken = () => {
+      const token = localStorage.getItem("joka_auth_token");
+      if (token && token !== "null") {
+        const formData = new URLSearchParams();
+        formData.append("access_token", token);
+        fetch(apis.verifyAccessToken, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/x-www-form-urlencoded",
+            joka_auth_token: token,
+          },
+          body: formData.toString(),
+        })
+          .then((response) => response.json())
+          .then((body) => {
+            if (body.error) {
+              console.log("Cleared local joka_auth_token!!!");
+              localStorage.removeItem("joka_auth_token");
+            } else {
+              window.open(redirectUrl, "_blank");
+            }
+          })
+          .catch((err) => {
+            console.error(err);
+          });
+      }
+    };
+    verifyAuthToken();
+    // eslint-disable-next-line
   }, []);
 
   return (
