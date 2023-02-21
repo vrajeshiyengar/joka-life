@@ -26,7 +26,7 @@ export const applications = {
     },
     {
       title: "Joka Directory",
-      redirectUrl: "/jd",
+      redirectUrl: "", // enter a blank string in redirectUrl to disable the tile and add a "coming soon" to the tile.
       bg: jdBg,
       fontColor: "white",
       requiresJokaAuth: true,
@@ -42,7 +42,8 @@ export const applications = {
   utils: [
     {
       title: "IIMC Yellow Pages",
-      redirectUrl: "/tt",
+      redirectUrl:
+        "https://docs.google.com/spreadsheets/d/1JB_8PVjOccaWssHDU7NWdKkmxFrG-G4deB2Ep76nSfA/",
       bg: ypBg,
       fontColor: "white",
       requiresJokaAuth: false,
