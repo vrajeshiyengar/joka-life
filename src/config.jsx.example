@@ -1,62 +1,91 @@
 import IIMCLogo from "./assets/iimc_logo.png";
+import bbBg from "./assets/card-bg-bb.png";
+import cwBg from "./assets/card-bg-cw.jpg";
+import jdBg from "./assets/card-bg-jd.png";
+import amsBg from "./assets/card-bg-ams.png";
+import ypBg from "./assets/button-bg-yp.png";
+import ttBg from "./assets/button-bg-tt.png";
+import libBg from "./assets/button-bg-lib.png";
+import crBg from "./assets/button-bg-cr.png";
 // import more icons similarly for different apps
-
-export const applications = [
-  // {jokaBackend runs on 3000}
-  // {JokaLife runs on 4000}
-  // {Password Reset runs on 4001}
-  // {Timetable runs on 4002}
-  // {Joka Directory runs on 4003}
-  {
-    title: "Joka Directory",
-    description: "Sample description",
-    redirectUrl: "http://localhost:4003/",
-    icon: IIMCLogo,
-    requiresJokaAuth: true,
-  },
-  {
-    title: "Timetable",
-    description: "Sample description",
-    redirectUrl: "http://localhost:4002/",
-    icon: IIMCLogo,
-    requiresJokaAuth: true,
-  },
-  {
-    title: "Bulletin Board",
-    description: "Sample description",
-    redirectUrl: "http://student.iimcal.ac.in/bb/",
-    icon: IIMCLogo,
-    requiresJokaAuth: false,
-  },
-  {
-    title: "Course Web",
-    description: "Sample description",
-    redirectUrl: "https://courseweb.iimcal.ac.in/login/index.php",
-    icon: IIMCLogo,
-    requiresJokaAuth: false,
-  },
-  {
-    title: "Academic Mangement System",
-    description: "Check your grades, attendance and more",
-    redirectUrl: "http://student.iimcal.ac.in/iimc/system/login.jsp",
-    icon: IIMCLogo,
-    requiresJokaAuth: false,
-  },
-  {
-    title: "Library",
-    description: "Sample description",
-    redirectUrl: "https://library.iimcal.ac.in/",
-    icon: IIMCLogo,
-    requiresJokaAuth: false,
-  },
-  {
-    title: "IIM Calcutta",
-    description: "Sample description of what happens here",
-    redirectUrl: "https://www.iimcal.ac.in/",
-    icon: IIMCLogo,
-    requiresJokaAuth: false,
-  },
-];
+export const applications = {
+  cards: [
+    {
+      title: "Bulletin Board",
+      redirectUrl: "/bb",
+      bg: bbBg,
+      fontColor: "white",
+      requiresJokaAuth: false,
+    },
+    {
+      title: "Course Web",
+      redirectUrl: "https://courseweb.iimcal.ac.in/login/index.php",
+      bg: cwBg,
+      fontColor: "black",
+      requiresJokaAuth: false,
+    },
+    {
+      title: "Joka Directory",
+      redirectUrl: "/jd",
+      bg: jdBg,
+      fontColor: "white",
+      requiresJokaAuth: true,
+    },
+    {
+      title: "Academic Mangement System",
+      redirectUrl: "http://student.iimcal.ac.in/iimc/system/login.jsp",
+      bg: amsBg,
+      fontColor: "white",
+      requiresJokaAuth: false,
+    },
+  ],
+  utils: [
+    {
+      title: "IIMC Yellow Pages",
+      redirectUrl: "/tt",
+      bg: ypBg,
+      fontColor: "white",
+      requiresJokaAuth: false,
+    },
+    {
+      title: "Joka Utils",
+      redirectUrl: "https://vrajeshiyengar.github.io/joka-utils/",
+      bg: ttBg,
+      fontColor: "white",
+      requiresJokaAuth: false,
+    },
+    {
+      title: "Library",
+      redirectUrl: "https://library.iimcal.ac.in/",
+      bg: libBg,
+      fontColor: "white",
+      requiresJokaAuth: false,
+    },
+    {
+      title: "Course Registration",
+      redirectUrl: "https://iimcal.coursebidding.com/",
+      bg: crBg,
+      fontColor: "white",
+      requiresJokaAuth: false,
+    },
+  ],
+  clubs: [
+    {
+      title: "PMTech Club",
+      redirectUrl: "https://www.linkedin.com/company/pmtechiimc",
+      icon: IIMCLogo,
+      requiresJokaAuth: false,
+    },
+  ],
+  other: [
+    {
+      title: "IIM Calcutta",
+      redirectUrl: "https://www.iimcal.ac.in/",
+      icon: IIMCLogo,
+      requiresJokaAuth: false,
+    },
+  ],
+};
 
 export const apis = {
   login: "/api/auth/login",
