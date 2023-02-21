@@ -3,7 +3,7 @@ import "@fontsource/exo-2";
 import "./App.css";
 import LandingPage from "./pages/LandingPage";
 import LoginPage from "./pages/LoginPage";
-import backgroundImage from "./assets/background.jpg";
+import backgroundImage from "./assets/background-min.jpg";
 const App = () => {
   const [redirectUrlState, setRedirectUrlState] = useState(null);
   useEffect(() => {
