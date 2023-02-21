@@ -43,7 +43,7 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
               "joka_auth_token",
               joka_auth_token.access_token
             );
-            window.location.assign(redirectUrl);
+            window.open(redirectUrl, "_blank");
           }
         })
         .catch((err) => {
@@ -73,7 +73,7 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
             console.log("Cleared local joka_auth_token!!!");
             localStorage.removeItem("joka_auth_token");
           } else {
-            window.location.assign(redirectUrl);
+            window.open(redirectUrl, "_blank");
           }
         })
         .catch((err) => {
@@ -84,7 +84,7 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
 
   const handleForgotPassword = (event) => {
     event.preventDefault();
-    window.location.assign(apis.forgotPassword);
+    window.open(apis.forgotPassword, "_blank");
   };
 
   const handleHomeClick = (event) => {

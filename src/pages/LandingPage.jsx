@@ -9,7 +9,7 @@ const LandingPage = ({ setRedirectUrl }) => {
     if (requiresJokaAuth) {
       setRedirectUrl(url);
     } else {
-      window.location.assign(url);
+      window.open(url, "_blank");
     }
   };
 
