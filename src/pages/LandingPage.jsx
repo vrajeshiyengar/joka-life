@@ -24,7 +24,7 @@ const LandingPage = ({ setRedirectUrl }) => {
           <span className="subtitle">IIM Calcutta's digital portal</span>
         </div>
       </div>
-      <span className="section-header">Applications</span>
+      <span className="section-header"></span>
       <div className="cards-container">
         {applications.cards.map((item) => {
           return (
@@ -42,7 +42,7 @@ const LandingPage = ({ setRedirectUrl }) => {
           );
         })}
       </div>
-      <span className="section-header">Utilities</span>
+      <span className="section-header"></span>
       <div className="section-cards-container">
         {applications.utils.map((item) => {
           return (
