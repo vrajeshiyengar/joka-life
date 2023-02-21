@@ -1,12 +1,12 @@
 import React from "react";
-const AppCard = ({ title, description, onClick, icon }) => {
+const AppCard = ({ title, bg, fontColor, onClick }) => {
   return (
-    <div onClick={onClick} className="appcard_card">
-      <img src={icon} alt="Logo" className="appcard_logo" />
-      <div className="appcard_content">
-        <h3 className="title">{title}</h3>
-        <p className="description">{description}</p>
-      </div>
+    <div
+      onClick={onClick}
+      className="appcard_card"
+      style={{ backgroundImage: `url(${bg})`, color: fontColor }}
+    >
+      <span className="card-title">{title}</span>
     </div>
   );
 };

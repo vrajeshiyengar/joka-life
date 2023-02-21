@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import config from "../config";
+import { apis } from "../config";
 import iimcLogo from "../assets/iimc_logo.png";
 
 const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
@@ -17,7 +17,7 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
       const formData = new URLSearchParams();
       formData.append("username", event.target[0].value);
       formData.append("password", event.target[1].value);
-      fetch(config.apis.login, {
+      fetch(apis.login, {
         method: "POST",
         headers: {
           "Content-Type": "application/x-www-form-urlencoded",
@@ -56,10 +56,10 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
   };
 
   const verifyAuthToken = (token) => {
-    if (token && token != "null") {
+    if (token && token !== "null") {
       const formData = new URLSearchParams();
       formData.append("access_token", token);
-      fetch(config.apis.verifyAccessToken, {
+      fetch(apis.verifyAccessToken, {
         method: "POST",
         headers: {
           "Content-Type": "application/x-www-form-urlencoded",
@@ -84,7 +84,7 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
 
   const handleForgotPassword = (event) => {
     event.preventDefault();
-    window.location.assign(config.apis.forgotPassword);
+    window.location.assign(apis.forgotPassword);
   };
 
   const handleHomeClick = (event) => {
@@ -97,14 +97,16 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
   }, []);
 
   return (
-    <div className="container">
-      <div className="login_card">
+    <div className="login-container">
+      <div className="login-card">
         <div className="login-logo-container">
           <img src={iimcLogo} alt="IIM Calcutta" className="login-logo" />
         </div>
-        <div className="login_title">
+        <div className="login-title">
           <h2>Login</h2>
-          <a onClick={handleHomeClick}>Home</a>
+          <span className="link" onClick={handleHomeClick}>
+            Home
+          </span>
         </div>
         <form onSubmit={handleLogin}>
           <div className="form-group">
@@ -123,7 +125,9 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
           <button type="submit">Submit</button>
         </form>
         <div className="forgot-password">
-          <a onClick={handleForgotPassword}>Forgot password?</a>
+          <span className="link" onClick={handleForgotPassword}>
+            Forgot password?
+          </span>
         </div>
       </div>
     </div>

@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-
+import "@fontsource/exo-2";
 import "./App.css";
 import LandingPage from "./pages/LandingPage";
 import LoginPage from "./pages/LoginPage";
@@ -21,14 +21,18 @@ const App = () => {
 
   return (
     <div className="App" style={{ backgroundImage: `url(${backgroundImage})` }}>
-      {redirectUrlState ? (
-        <LoginPage
-          redirectUrl={redirectUrlState}
-          setRedirectUrl={setRedirectUrlState}
-        />
-      ) : (
-        <LandingPage setRedirectUrl={setRedirectUrlState} />
-      )}
+      <div className="overlay">
+        <div className="view-space">
+          {redirectUrlState ? (
+            <LoginPage
+              redirectUrl={redirectUrlState}
+              setRedirectUrl={setRedirectUrlState}
+            />
+          ) : (
+            <LandingPage setRedirectUrl={setRedirectUrlState} />
+          )}
+        </div>
+      </div>
       <footer className="footer">
         Developed & Maintained by the Internet Solutions Group, IIM Calcutta
       </footer>

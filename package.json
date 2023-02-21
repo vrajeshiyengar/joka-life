@@ -1,9 +1,9 @@
 {
   "name": "joka-life",
   "version": "0.1.0",
-  "homepage": "/jokaLife",
   "private": true,
   "dependencies": {
+    "@fontsource/exo-2": "^4.5.11",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -14,7 +14,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "PORT=4000 react-scripts start",
     "build": "react-scripts build",
     "deploy": "sudo cp -r ./build/* /var/www/html/home"
   },

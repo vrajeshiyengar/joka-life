@@ -1,7 +1,7 @@
 import React from "react";
 import AppCard from "../components/AppCard";
-import config from "../config";
-import iimcLogo from "../assets/iimc_logo.png";
+import { applications } from "../config";
+import iimcLogoWhite from "../assets/iimc_logo_white.png";
 const LandingPage = ({ setRedirectUrl }) => {
   const handleClick = (url, requiresJokaAuth) => {
     console.log("clicked!!", url, requiresJokaAuth);
@@ -12,35 +12,53 @@ const LandingPage = ({ setRedirectUrl }) => {
     }
   };
   return (
-    <div className="container">
-      <div className="card">
-        <div className="landing-logo-container">
-          <img src={iimcLogo} alt="IIM Calcutta" className="landing-logo" />
+    <>
+      <div className="banner">
+        <div className="banner-logo-container">
+          <img src={iimcLogoWhite} alt="IIM Calcutta" className="banner-logo" />
         </div>
-        <h1 className="landingpage_title">Welcome to Joka Life</h1>
-        <p className="landingpage_description">IIM Calcutta's digital portal</p>
-        <br />
-        <p className="landingpage_description">
-          Select an application below to continue
-        </p>
-        <div className="appcards_container">
-          {config.applications.map((item) => {
-            return (
-              <AppCard
-                key={`key_${item.title}`}
-                title={item.title}
-                description={item.description}
-                redirectUrl={item.redirectUrl}
-                onClick={() => {
-                  handleClick(item.redirectUrl, item.requiresJokaAuth);
-                }}
-                icon={item.icon}
-              />
-            );
-          })}
+        <div className="text-container">
+          <span className="title">Joka Life</span>
+          <span className="subtitle">IIM Calcutta's digital portal</span>
         </div>
       </div>
-    </div>
+      <span className="section-header">Applications</span>
+      <div className="cards-container">
+        {applications.cards.map((item) => {
+          return (
+            <AppCard
+              key={`key_${item.title}`}
+              variant="card"
+              title={item.title}
+              redirectUrl={item.redirectUrl}
+              onClick={() => {
+                handleClick(item.redirectUrl, item.requiresJokaAuth);
+              }}
+              bg={item.bg}
+              fontColor={item.fontColor}
+            />
+          );
+        })}
+      </div>
+      <span className="section-header">Utilities</span>
+      <div className="section-cards-container">
+        {applications.utils.map((item) => {
+          return (
+            <AppCard
+              key={`key_${item.title}`}
+              variant="card"
+              title={item.title}
+              redirectUrl={item.redirectUrl}
+              onClick={() => {
+                handleClick(item.redirectUrl, item.requiresJokaAuth);
+              }}
+              bg={item.bg}
+              fontColor={item.fontColor}
+            />
+          );
+        })}
+      </div>
+    </>
   );
 };
 
