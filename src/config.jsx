@@ -11,18 +11,18 @@
 // import bg2 from "./assets/card-bg-white-2.png";
 // import bg3 from "./assets/card-bg-white-3.png";
 
-import IIMCLogo from "./assets/compressed/iimc_logo.png";
-import bbBg from "./assets/compressed/card-bg-bb.png";
-import cwBg from "./assets/compressed/card-bg-cw.jpg";
-import jdBg from "./assets/compressed/card-bg-jd.png";
-import amsBg from "./assets/compressed/card-bg-ams.png";
-import ypBg from "./assets/compressed/button-bg-yp.png";
-import ttBg from "./assets/compressed/button-bg-tt.png";
-import libBg from "./assets/compressed/button-bg-lib.png";
-import crBg from "./assets/compressed/button-bg-cr.png";
-import bg1 from "./assets/compressed/card-bg-white-1.png";
-import bg2 from "./assets/compressed/card-bg-white-2.png";
-import bg3 from "./assets/compressed/card-bg-white-3.png";
+import IIMCLogo from "./assets/compressed/iimc_logo-min.png";
+import bbBg from "./assets/compressed/card-bg-bb-min.png";
+import cwBg from "./assets/compressed/card-bg-cw-min.jpg";
+import jdBg from "./assets/compressed/card-bg-jd-min.png";
+import amsBg from "./assets/compressed/card-bg-ams-min.png";
+import ypBg from "./assets/compressed/button-bg-yp-min.png";
+import ttBg from "./assets/compressed/button-bg-tt-min.png";
+import libBg from "./assets/compressed/button-bg-lib-min.png";
+import crBg from "./assets/compressed/button-bg-cr-min.png";
+import bg1 from "./assets/compressed/card-bg-white-1-min.png";
+import bg2 from "./assets/compressed/card-bg-white-2-min.png";
+import bg3 from "./assets/compressed/card-bg-white-3-min.png";
 // import more icons similarly for different apps
 export const applications = {
   cards: [
