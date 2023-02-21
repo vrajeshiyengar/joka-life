@@ -16,7 +16,7 @@ export const applications = {
     },
     {
       title: "Joka Directory",
-      redirectUrl: "", // enter a blank string in redirectUrl to disable the tile and add a "coming soon" to the tile.
+      redirectUrl: "/jd", // enter a blank string in redirectUrl to disable the tile and add a "coming soon" to the tile.
       bg: cardBg,
       requiresJokaAuth: true,
     },
