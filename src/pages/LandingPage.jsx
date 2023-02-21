@@ -2,6 +2,7 @@ import React from "react";
 import AppCard from "../components/AppCard";
 import { applications } from "../config";
 import iimcLogoWhite from "../assets/iimc_logo_white.png";
+
 const LandingPage = ({ setRedirectUrl }) => {
   const handleClick = (url, requiresJokaAuth) => {
     console.log("clicked!!", url, requiresJokaAuth);
@@ -11,6 +12,7 @@ const LandingPage = ({ setRedirectUrl }) => {
       window.location.assign(url);
     }
   };
+
   return (
     <>
       <div className="banner">
@@ -28,7 +30,6 @@ const LandingPage = ({ setRedirectUrl }) => {
           return (
             <AppCard
               key={`key_${item.title}`}
-              variant="card"
               title={item.title}
               redirectUrl={item.redirectUrl}
               onClick={() => {
@@ -36,6 +37,7 @@ const LandingPage = ({ setRedirectUrl }) => {
               }}
               bg={item.bg}
               fontColor={item.fontColor}
+              disabled={item.redirectUrl ? false : true}
             />
           );
         })}
@@ -54,6 +56,7 @@ const LandingPage = ({ setRedirectUrl }) => {
               }}
               bg={item.bg}
               fontColor={item.fontColor}
+              disabled={item.redirectUrl ? false : true}
             />
           );
         })}
