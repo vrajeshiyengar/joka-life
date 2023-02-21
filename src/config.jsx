@@ -7,28 +7,31 @@ import ypBg from "./assets/button-bg-yp.png";
 import ttBg from "./assets/button-bg-tt.png";
 import libBg from "./assets/button-bg-lib.png";
 import crBg from "./assets/button-bg-cr.png";
+import bg1 from "./assets/card-bg-white-1.png";
+import bg2 from "./assets/card-bg-white-2.png";
+import bg3 from "./assets/card-bg-white-3.png";
 // import more icons similarly for different apps
 export const applications = {
   cards: [
     {
       title: "Bulletin Board",
       redirectUrl: "http://student.iimcal.ac.in/bb",
-      bg: bbBg,
-      fontColor: "white",
+      bg: bg1,
+      fontColor: "black",
       requiresJokaAuth: false,
     },
     {
       title: "Course Web",
       redirectUrl: "https://courseweb.iimcal.ac.in/login/index.php",
-      bg: cwBg,
+      bg: bg2,
       fontColor: "black",
       requiresJokaAuth: false,
     },
     {
       title: "Joka Directory",
       redirectUrl: "", // enter a blank string in redirectUrl to disable the tile and add a "coming soon" to the tile.
-      bg: jdBg,
-      fontColor: "white",
+      bg: bg3,
+      fontColor: "black",
       requiresJokaAuth: true,
     },
     {
