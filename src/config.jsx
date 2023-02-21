@@ -30,7 +30,7 @@ export const applications = {
   ],
   utils: [
     {
-      title: "IIMC Yellow Pages",
+      title: "Joka Yellow Pages",
       redirectUrl:
         "https://docs.google.com/spreadsheets/d/1JB_8PVjOccaWssHDU7NWdKkmxFrG-G4deB2Ep76nSfA/",
       bg: cardBg,
