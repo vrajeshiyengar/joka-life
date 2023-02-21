@@ -3,7 +3,7 @@ import "@fontsource/exo-2";
 import "./App.css";
 import LandingPage from "./pages/LandingPage";
 import LoginPage from "./pages/LoginPage";
-import backgroundImage from "./assets/background-min.jpg";
+import backgroundImage1 from "./assets/backgrounds/background1.jpg";
 const App = () => {
   const [redirectUrlState, setRedirectUrlState] = useState(null);
   useEffect(() => {
@@ -20,7 +20,10 @@ const App = () => {
   }, []);
 
   return (
-    <div className="App" style={{ backgroundImage: `url(${backgroundImage})` }}>
+    <div
+      className="App"
+      style={{ backgroundImage: `url(${backgroundImage1})` }}
+    >
       <div className="overlay">
         <div className="view-space">
           {redirectUrlState ? (
