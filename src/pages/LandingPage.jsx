@@ -7,7 +7,8 @@ const LandingPage = ({ setRedirectUrl }) => {
   const handleClick = (url, requiresJokaAuth) => {
     console.log("clicked!!", url, requiresJokaAuth);
     if (requiresJokaAuth) {
-      setRedirectUrl(url);
+      // setRedirectUrl(url);
+      window.open(`/home?redirectUrl=${url}`, "_blank");
     } else {
       window.open(url, "_blank");
     }
