@@ -99,7 +99,13 @@ const App = () => {
             )}
             <footer className="footer">
               <span>
-                {`Developed by Vrajesh Iyengar. \n© Copyright 2023 Internet Solutions Group`}
+                Developed by{" "}
+                <a href="https://www.linkedin.com/in/vrajesh-iyengar/">
+                  Vrajesh Iyengar
+                </a>
+              </span>
+              <span>
+                © Copyright 2023 Internet Solutions Group, IIM Calcutta
               </span>
               <div className="socials">
                 {socialIcons.map((icon) => (
