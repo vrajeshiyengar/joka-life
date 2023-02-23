@@ -2,7 +2,7 @@ export const applications = {
   cards: [
     {
       title: "Bulletin Board",
-      redirectUrl: "http://student.iimcal.ac.in/bb",
+      redirectUrl: "https://student.iimcal.ac.in/bb",
       requiresJokaAuth: false,
     },
     {
@@ -44,6 +44,7 @@ export const applications = {
       requiresJokaAuth: false,
     },
   ],
+  // currently the below keys arent beingn read by /pages/LandingPage.jsx. If required, you can configure the tiles below, and use it as the utils have been used.
   clubs: [
     {
       title: "PMTech Club",
