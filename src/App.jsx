@@ -99,8 +99,7 @@ const App = () => {
             )}
             <footer className="footer">
               <span>
-                Developed & maintained by the Internet Solutions Group, IIM
-                Calcutta
+                {`Developed by Vrajesh Iyengar. \n© Copyright 2023 Internet Solutions Group`}
               </span>
               <div className="socials">
                 {socialIcons.map((icon) => (
