@@ -1,29 +1,23 @@
-import cardBg from "./assets/card-bg-white.png";
-
 export const applications = {
   cards: [
     {
       title: "Bulletin Board",
       redirectUrl: "http://student.iimcal.ac.in/bb",
-      bg: cardBg,
       requiresJokaAuth: false,
     },
     {
       title: "Course Web",
       redirectUrl: "https://courseweb.iimcal.ac.in/login/index.php",
-      bg: cardBg,
       requiresJokaAuth: false,
     },
     {
       title: "Joka Directory",
-      redirectUrl: "/jd", // enter a blank string in redirectUrl to disable the tile and add a "coming soon" to the tile.
-      bg: cardBg,
+      // redirectUrl: "http://student.iimcal.ac.in/jd",
       requiresJokaAuth: true,
     },
     {
       title: "Academic Mangement System",
-      redirectUrl: "http://student.iimcal.ac.in/iimc/system/login.jsp",
-      bg: cardBg,
+      redirectUrl: "http://ams.iimcal.ac.in/iimc",
       requiresJokaAuth: false,
     },
   ],
@@ -32,25 +26,21 @@ export const applications = {
       title: "Joka Yellow Pages",
       redirectUrl:
         "https://docs.google.com/spreadsheets/d/1JB_8PVjOccaWssHDU7NWdKkmxFrG-G4deB2Ep76nSfA/",
-      bg: cardBg,
       requiresJokaAuth: false,
     },
     {
       title: "Joka Utils",
       redirectUrl: "https://vrajeshiyengar.github.io/joka-utils/",
-      bg: cardBg,
       requiresJokaAuth: false,
     },
     {
       title: "Library",
       redirectUrl: "https://library.iimcal.ac.in/",
-      bg: cardBg,
       requiresJokaAuth: false,
     },
     {
       title: "Course Registration",
       redirectUrl: "https://iimcal.coursebidding.com/",
-      bg: cardBg,
       requiresJokaAuth: false,
     },
   ],
@@ -58,7 +48,6 @@ export const applications = {
     {
       title: "PMTech Club",
       redirectUrl: "https://www.linkedin.com/company/pmtechiimc",
-      bg: cardBg,
       requiresJokaAuth: false,
     },
   ],
@@ -66,16 +55,15 @@ export const applications = {
     {
       title: "IIM Calcutta",
       redirectUrl: "https://www.iimcal.ac.in/",
-      bg: cardBg,
       requiresJokaAuth: false,
     },
   ],
 };
 
 export const apis = {
-  login: "/api/auth/login",
-  forgotPassword: "/passwordResetApp#/",
-  verifyAccessToken: "/api/auth/verifyAccessToken",
+  login: "http://student.iimcal.ac.in/api/auth/login",
+  forgotPassword: "http://student.iimcal.ac.in/passwordResetApp#/",
+  verifyAccessToken: "http://student.iimcal.ac.in/api/auth/verifyAccessToken",
 };
 
 export const socials = {
