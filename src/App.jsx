@@ -105,7 +105,8 @@ const App = () => {
                 </a>
               </span> */}
               <span>
-                © Copyright 2023 Internet Solutions Group, IIM Calcutta
+                Developed & maintained by the Internet Solutions Group, IIM
+                Calcutta
               </span>
               <div className="socials">
                 {socialIcons.map((icon) => (
