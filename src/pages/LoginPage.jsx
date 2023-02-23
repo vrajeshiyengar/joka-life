@@ -85,7 +85,7 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
               console.log("Cleared local joka_auth_token!!!");
               localStorage.removeItem("joka_auth_token");
             } else {
-              window.open(redirectUrl, "_blank");
+              window.open(redirectUrl);
             }
           })
           .catch((err) => {
