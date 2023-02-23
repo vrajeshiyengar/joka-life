@@ -16,7 +16,7 @@ export const applications = {
       requiresJokaAuth: true,
     },
     {
-      title: "Academic Mangement System",
+      title: "Academic Management System",
       redirectUrl: "http://ams.iimcal.ac.in/iimc",
       requiresJokaAuth: false,
     },
