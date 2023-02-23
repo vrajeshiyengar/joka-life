@@ -1,11 +1,12 @@
 import React from "react";
+import cardBg from "../assets/card-bg-white.png";
 
-const AppCard = ({ title, bg, onClick, disabled }) => {
+const AppCard = ({ title, onClick, disabled }) => {
   return (
     <div
       onClick={disabled ? () => {} : onClick}
       className={`appcard-card${disabled ? "-disabled" : ""}`}
-      style={{ backgroundImage: `url(${bg})` }}
+      style={{ backgroundImage: `url(${cardBg})` }}
     >
       <span className="card-title">{title}</span>
       {disabled ? <span className="coming-soon">Coming soon...</span> : <></>}

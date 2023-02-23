@@ -49,14 +49,10 @@ const LandingPage = ({ setRedirectUrl }) => {
           return (
             <AppCard
               key={`key_${item.title}`}
-              variant="card"
               title={item.title}
-              redirectUrl={item.redirectUrl}
               onClick={() => {
                 handleClick(item.redirectUrl, item.requiresJokaAuth);
               }}
-              bg={item.bg}
-              fontColor={item.fontColor}
               disabled={item.redirectUrl ? false : true}
             />
           );
