@@ -77,7 +77,7 @@ const App = () => {
     }
   }, []);
   const redirectTo = (ev) => {
-    window.open(socials[ev.target.alt], "blank_");
+    window.open(socials[ev.target.alt], "_blank");
   };
   if (loading) {
     <></>;
