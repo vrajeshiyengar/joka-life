@@ -43,7 +43,7 @@ const LoginPage = ({ redirectUrl, setRedirectUrl }) => {
               "joka_auth_token",
               joka_auth_token.access_token
             );
-            window.open(redirectUrl, "_blank");
+            window.open(redirectUrl);
           }
         })
         .catch((err) => {
