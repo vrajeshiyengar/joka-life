@@ -12,7 +12,7 @@ export const applications = {
     },
     {
       title: "Joka Directory",
-      // redirectUrl: "http://student.iimcal.ac.in/jd",
+      redirectUrl: "http://student.iimcal.ac.in/jd",
       requiresJokaAuth: true,
     },
     {
