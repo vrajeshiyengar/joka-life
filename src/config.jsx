@@ -62,9 +62,9 @@ export const applications = {
 };
 
 export const apis = {
-  login: "http://student.iimcal.ac.in/api/auth/login",
-  forgotPassword: "http://student.iimcal.ac.in/passwordResetApp#/",
-  verifyAccessToken: "http://student.iimcal.ac.in/api/auth/verifyAccessToken",
+  login: "https://student.iimcal.ac.in/api/auth/login",
+  forgotPassword: "https://student.iimcal.ac.in/passwordResetApp#/",
+  verifyAccessToken: "https://student.iimcal.ac.in/api/auth/verifyAccessToken",
 };
 
 export const socials = {
