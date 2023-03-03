@@ -30,7 +30,7 @@ export const applications = {
     },
     {
       title: "Joka Utils",
-      redirectUrl: "https://vrajeshiyengar.github.io/joka-utils/",
+      redirectUrl: "https://student.iimcal.ac.in/jokaUtils",
       requiresJokaAuth: false,
     },
     {
